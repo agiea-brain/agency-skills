@@ -1,0 +1,65 @@
+name: Submit a skill
+description: For contributors without git. Paste your files here and a maintainer will open the pull request under your name.
+title: "[submission] <skill name>"
+labels: [skill-submission]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If you can, let your AI agent submit for you instead; the prompt is in the README and it handles everything below, including prefilling this form for you. Format reference: [AGENTS.md](https://github.com/agiea-brain/agent-skills/blob/main/AGENTS.md). Starting points: [templates/](https://github.com/agiea-brain/agent-skills/tree/main/templates).
+  - type: input
+    id: creator
+    attributes:
+      label: Creator slug
+      description: Lowercase with hyphens (jane-doe). Becomes skills/<slug>/. Reuse yours if you've contributed before.
+      placeholder: jane-doe
+    validations:
+      required: true
+  - type: input
+    id: skill
+    attributes:
+      label: Skill slug
+      description: Lowercase with hyphens. This is the install name and the URL, permanently.
+      placeholder: pipeline-review-coaching
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind of skill
+      options:
+        - Tool-agnostic (role verbs, no product names)
+        - Tool-specific (products listed in tools:)
+    validations:
+      required: true
+  - type: textarea
+    id: skill-md
+    attributes:
+      label: SKILL.md
+      description: The whole file including frontmatter. Delete the template's metadata block.
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: Reference pages (optional)
+      description: "Each page preceded by a line naming it, e.g. `=== references/scorecard.md ===`"
+      render: markdown
+  - type: textarea
+    id: author-md
+    attributes:
+      label: author.md (first submission only)
+      description: Your profile, from templates/author.md.
+      render: markdown
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirm
+      options:
+        - label: The skill has a "What good looks like" section with my real judgment, not just steps
+          required: true
+        - label: Nothing in it sends data anywhere the reader doesn't own, embeds a secret, or runs a destructive step without confirmation
+          required: true
+        - label: I'm publishing this under MIT with my name attached
+          required: true

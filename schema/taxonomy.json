@@ -1,0 +1,43 @@
+{
+  "$comment": "Single source of truth for categories and known tools. Imported by tools/validate.mjs, the web app, and the server. Add a tool by PR.",
+  "categories": [
+    "Sales",
+    "Marketing",
+    "RevOps",
+    "Customer Success",
+    "Leadership",
+    "Executive Coaching",
+    "Sales Coaching",
+    "Hiring",
+    "Operations",
+    "Finance",
+    "Product",
+    "Strategy",
+    "Implementation"
+  ],
+  "tools": [
+    { "slug": "hubspot", "name": "HubSpot", "aliases": [] },
+    { "slug": "salesforce", "name": "Salesforce", "aliases": ["SFDC"] },
+    { "slug": "pipedrive", "name": "Pipedrive", "aliases": [] },
+    { "slug": "attio", "name": "Attio", "aliases": [] },
+    { "slug": "ashby", "name": "Ashby", "aliases": [] },
+    { "slug": "greenhouse", "name": "Greenhouse", "aliases": [] },
+    { "slug": "lever", "name": "Lever", "aliases": [] },
+    { "slug": "gong", "name": "Gong", "aliases": [] },
+    { "slug": "outreach", "name": "Outreach", "aliases": ["Outreach.io"] },
+    { "slug": "salesloft", "name": "Salesloft", "aliases": ["SalesLoft"] },
+    { "slug": "apollo", "name": "Apollo", "aliases": ["Apollo.io"] },
+    { "slug": "clay", "name": "Clay", "aliases": [] },
+    { "slug": "linkedin-sales-navigator", "name": "LinkedIn Sales Navigator", "aliases": ["Sales Navigator", "Sales Nav"] },
+    { "slug": "slack", "name": "Slack", "aliases": [] },
+    { "slug": "notion", "name": "Notion", "aliases": [] },
+    { "slug": "zapier", "name": "Zapier", "aliases": [] },
+    { "slug": "make", "name": "Make.com", "aliases": ["Integromat"] },
+    { "slug": "n8n", "name": "n8n", "aliases": [] },
+    { "slug": "google-sheets", "name": "Google Sheets", "aliases": ["GSheets"] },
+    { "slug": "airtable", "name": "Airtable", "aliases": [] },
+    { "slug": "stripe", "name": "Stripe", "aliases": [] },
+    { "slug": "intercom", "name": "Intercom", "aliases": [] },
+    { "slug": "zendesk", "name": "Zendesk", "aliases": [] }
+  ]
+}

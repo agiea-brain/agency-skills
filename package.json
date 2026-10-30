@@ -1,0 +1,11 @@
+{
+  "name": "agent-skills",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "validate": "node tools/validate.mjs",
+    "build-index": "node tools/build-index.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
