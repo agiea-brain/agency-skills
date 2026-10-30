@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T19:10:48.702Z",
-  "commit": "93c994fb81baea015c91a7f42e3064db85213e5f",
+  "generatedAt": "2026-10-30T19:18:24.235Z",
+  "commit": "4f1658ced2e77a780983cb57f20d2bf1e885436d",
   "repo": "agiea-brain/agent-skills",
   "experts": [
     {
@@ -25,6 +25,7 @@
       "websiteUrl": "https://dynamicagencyos.com",
       "bio": "Chris DuBois coaches founders of sub-$1M agencies on positioning, messaging and offers, so new work keeps coming in during their busiest delivery weeks instead of depending on referrals. His skills encode how he edits and reviews agency copy: cutting short-form copy down to one sharp claim, and reading a finished page as the real buyer to find where trust breaks.",
       "skills": [
+        "buyer-read",
         "punch-up"
       ],
       "path": "skills/chris-dubois/author.md"
@@ -57,6 +58,42 @@
   ],
   "skills": [
     {
+      "slug": "buyer-read",
+      "title": "Buyer read",
+      "description": "Use this skill when a finished page, deck, or piece of client copy is about to go to the client or be published, and a real ICP or buyer research document exists. Produces a ranked list of what would make the target buyer stop trusting it, read in character, with every finding citing a line in a real source, plus what to cut and a score. Catches what craft reviews miss: scenarios that can't happen in the buyer's week, an offer never plainly stated, missing price, unused proof, seller vocabulary. Also use for \"/buyer-read\", \"review this as the buyer\", \"have the ICP look at this\", \"what would a CFO think of this page\", \"be hypercritical about this copy\". Not for grammar or voice checks, and never for rewriting.",
+      "category": "Marketing",
+      "tags": [
+        "copy-review",
+        "buyer-persona",
+        "icp",
+        "conversion",
+        "messaging"
+      ],
+      "tools": [],
+      "creator": "chris-dubois",
+      "contributors": [],
+      "path": "skills/chris-dubois/buyer-read/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/buyer-read/SKILL.md",
+      "files": [
+        {
+          "path": "skills/chris-dubois/buyer-read/references/persona-and-checks.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/buyer-read/references/persona-and-checks.md",
+          "ext": ".md"
+        },
+        {
+          "path": "skills/chris-dubois/buyer-read/references/scoring-rubric.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/buyer-read/references/scoring-rubric.md",
+          "ext": ".md"
+        },
+        {
+          "path": "skills/chris-dubois/buyer-read/references/worked-example.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/buyer-read/references/worked-example.md",
+          "ext": ".md"
+        }
+      ],
+      "wordCount": 776
+    },
+    {
       "slug": "delivery-audit-discovery-call",
       "title": "Delivery audit discovery call",
       "description": "Use this skill when you have 30 minutes with the owner of a professional service firm or agency (an existing customer, a closed-lost contact, or a net new prospect) to find the one client-delivery problem worth building a custom solution or pilot for. Produces a quantified pain (annual dollar figure plus opportunity cost in the owner's own words), a price framing delivered on the call, and a booked next step. Also use for \"delivery audit\", \"AI audit call\", \"discovery call for a custom build\", \"scope a pilot\", \"find the gnarliest workflow\", \"price on the call\".",
@@ -74,21 +111,21 @@
       "creator": "gary-magnone",
       "contributors": [],
       "path": "skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
       "files": [
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
           "ext": ".md"
         },
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
           "ext": ".md"
         },
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
           "ext": ".md"
         }
       ],
@@ -110,26 +147,26 @@
       "creator": "chris-dubois",
       "contributors": [],
       "path": "skills/chris-dubois/punch-up/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/chris-dubois/punch-up/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/punch-up/SKILL.md",
       "files": [
         {
           "path": "skills/chris-dubois/punch-up/references/bloat-patterns.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/chris-dubois/punch-up/references/bloat-patterns.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/punch-up/references/bloat-patterns.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/punch-up/references/calibration-pairs.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/chris-dubois/punch-up/references/calibration-pairs.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/punch-up/references/calibration-pairs.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/punch-up/references/hook-toolbox.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/chris-dubois/punch-up/references/hook-toolbox.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/punch-up/references/hook-toolbox.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/punch-up/references/rubric.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/chris-dubois/punch-up/references/rubric.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/punch-up/references/rubric.md",
           "ext": ".md"
         }
       ],
