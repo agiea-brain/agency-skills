@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/agiea-brain/agent-skills/main/schema/author.schema.json",
+  "title": "author.md frontmatter",
+  "description": "Frontmatter of skills/<creator>/author.md. The directory name is the creator slug; there is no slug field. email is never published to index.json.",
+  "type": "object",
+  "required": [
+    "name",
+    "title",
+    "headline",
+    "linkedinUrl",
+    "companyDomain",
+    "expertise"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Role, Company"
+    },
+    "headline": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 140,
+      "description": "One line of what the expert helps with. Primary search text."
+    },
+    "linkedinUrl": {
+      "type": "string",
+      "pattern": "linkedin\\.com/in/",
+      "description": "Personal profile, not a company page."
+    },
+    "companyDomain": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9.-]*\\.[a-z]{2,}$"
+    },
+    "expertise": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      },
+      "uniqueItems": true,
+      "description": "Search facets, lower-kebab."
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Sales",
+          "Marketing",
+          "RevOps",
+          "Customer Success",
+          "Leadership",
+          "Executive Coaching",
+          "Sales Coaching",
+          "Hiring",
+          "Operations",
+          "Finance",
+          "Product",
+          "Strategy",
+          "Implementation"
+        ]
+      },
+      "uniqueItems": true,
+      "description": "Optional; derived from the creator's skills when omitted."
+    },
+    "email": {
+      "type": "string",
+      "format": "email"
+    },
+    "avatarUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "websiteUrl": {
+      "type": "string",
+      "format": "uri"
+    }
+  }
+}
