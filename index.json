@@ -1,8 +1,73 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T17:44:58.940Z",
-  "commit": "8037524f912a167a77f64984e43627748307b734",
+  "generatedAt": "2026-10-30T18:21:25.710Z",
+  "commit": "6d9bb6a8be55d87acdc8376e968e00686e38e403",
   "repo": "agiea-brain/agent-skills",
-  "experts": [],
-  "skills": []
+  "experts": [
+    {
+      "slug": "gary-magnone",
+      "name": "Gary Magnone",
+      "title": "Fractional Operations Leader, Highrise",
+      "headline": "I help agency leadership teams align on growth priorities and build the execution capacity to make them move.",
+      "expertise": [
+        "agency-operations",
+        "discovery-calls",
+        "client-delivery",
+        "pricing-conversations",
+        "fractional-ops"
+      ],
+      "categories": [
+        "Sales"
+      ],
+      "linkedinUrl": "https://www.linkedin.com/in/gmagnone/",
+      "companyDomain": "garymagnone.com",
+      "avatarUrl": "https://garymagnone.com/assets/Gary-Headshot-1-2026.jpg",
+      "websiteUrl": "https://garymagnone.com",
+      "bio": "Gary Magnone has spent 15+ years on the agency side across strategy, delivery, accounts, operations and growth, and now works as a fractional operator embedded with agency leadership teams. His skills encode how he runs the conversations that turn a vague \"delivery is painful\" into one quantified problem, a price the owner has already justified, and a booked next step.",
+      "skills": [
+        "delivery-audit-discovery-call"
+      ],
+      "path": "skills/gary-magnone/author.md"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "delivery-audit-discovery-call",
+      "title": "Delivery audit discovery call",
+      "description": "Use this skill when you have 30 minutes with the owner of a professional service firm or agency (an existing customer, a closed-lost contact, or a net new prospect) to find the one client-delivery problem worth building a custom solution or pilot for. Produces a quantified pain (annual dollar figure plus opportunity cost in the owner's own words), a price framing delivered on the call, and a booked next step. Also use for \"delivery audit\", \"AI audit call\", \"discovery call for a custom build\", \"scope a pilot\", \"find the gnarliest workflow\", \"price on the call\".",
+      "category": "Sales",
+      "tags": [
+        "discovery",
+        "delivery-audit",
+        "pricing",
+        "agencies",
+        "professional-services",
+        "pilot",
+        "custom-build"
+      ],
+      "tools": [],
+      "creator": "gary-magnone",
+      "contributors": [],
+      "path": "skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/6d9bb6a8be55d87acdc8376e968e00686e38e403/skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
+      "files": [
+        {
+          "path": "skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/6d9bb6a8be55d87acdc8376e968e00686e38e403/skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
+          "ext": ".md"
+        },
+        {
+          "path": "skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/6d9bb6a8be55d87acdc8376e968e00686e38e403/skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
+          "ext": ".md"
+        },
+        {
+          "path": "skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/6d9bb6a8be55d87acdc8376e968e00686e38e403/skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
+          "ext": ".md"
+        }
+      ],
+      "wordCount": 857
+    }
+  ]
 }
