@@ -1,9 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T18:21:25.710Z",
-  "commit": "6d9bb6a8be55d87acdc8376e968e00686e38e403",
+  "generatedAt": "2026-10-30T19:10:48.702Z",
+  "commit": "93c994fb81baea015c91a7f42e3064db85213e5f",
   "repo": "agiea-brain/agent-skills",
   "experts": [
+    {
+      "slug": "chris-dubois",
+      "name": "Chris DuBois",
+      "title": "Founder and Coach, Dynamic Agency OS",
+      "headline": "I help sub-$1M agencies stop depending on referrals with positioning so clear it does the selling for them.",
+      "expertise": [
+        "agency-positioning",
+        "messaging",
+        "copywriting",
+        "copy-review",
+        "buyer-research"
+      ],
+      "categories": [
+        "Marketing"
+      ],
+      "linkedinUrl": "https://www.linkedin.com/in/christopherrdubois",
+      "companyDomain": "dynamicagencyos.com",
+      "avatarUrl": null,
+      "websiteUrl": "https://dynamicagencyos.com",
+      "bio": "Chris DuBois coaches founders of sub-$1M agencies on positioning, messaging and offers, so new work keeps coming in during their busiest delivery weeks instead of depending on referrals. His skills encode how he edits and reviews agency copy: cutting short-form copy down to one sharp claim, and reading a finished page as the real buyer to find where trust breaks.",
+      "skills": [
+        "punch-up"
+      ],
+      "path": "skills/chris-dubois/author.md"
+    },
     {
       "slug": "gary-magnone",
       "name": "Gary Magnone",
@@ -49,25 +74,66 @@
       "creator": "gary-magnone",
       "contributors": [],
       "path": "skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/6d9bb6a8be55d87acdc8376e968e00686e38e403/skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
       "files": [
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/6d9bb6a8be55d87acdc8376e968e00686e38e403/skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
           "ext": ".md"
         },
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/6d9bb6a8be55d87acdc8376e968e00686e38e403/skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
           "ext": ".md"
         },
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/6d9bb6a8be55d87acdc8376e968e00686e38e403/skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
           "ext": ".md"
         }
       ],
       "wordCount": 857
+    },
+    {
+      "slug": "punch-up",
+      "title": "Punch-up",
+      "description": "Use this skill when a piece of short-form copy (headline, subhead, hero, CTA, subject line, tagline, ad line, bio, or short section) is wordy, soft, or forgettable. Produces a sharper rewrite, one or two alternates on a different angle, and a score against a six-dimension rubric, revised until it passes. Also use for \"/punch-up\", \"make this punchier\", \"make this catchier\", \"tighten this\", \"this is too wordy\", \"cut this down\", \"sharpen this headline\". Not for the body of a blog post or newsletter, and not for writing a page from scratch.",
+      "category": "Marketing",
+      "tags": [
+        "copywriting",
+        "copy-editing",
+        "headlines",
+        "messaging",
+        "short-form-copy"
+      ],
+      "tools": [],
+      "creator": "chris-dubois",
+      "contributors": [],
+      "path": "skills/chris-dubois/punch-up/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/chris-dubois/punch-up/SKILL.md",
+      "files": [
+        {
+          "path": "skills/chris-dubois/punch-up/references/bloat-patterns.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/chris-dubois/punch-up/references/bloat-patterns.md",
+          "ext": ".md"
+        },
+        {
+          "path": "skills/chris-dubois/punch-up/references/calibration-pairs.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/chris-dubois/punch-up/references/calibration-pairs.md",
+          "ext": ".md"
+        },
+        {
+          "path": "skills/chris-dubois/punch-up/references/hook-toolbox.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/chris-dubois/punch-up/references/hook-toolbox.md",
+          "ext": ".md"
+        },
+        {
+          "path": "skills/chris-dubois/punch-up/references/rubric.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/93c994fb81baea015c91a7f42e3064db85213e5f/skills/chris-dubois/punch-up/references/rubric.md",
+          "ext": ".md"
+        }
+      ],
+      "wordCount": 740
     }
   ]
 }
