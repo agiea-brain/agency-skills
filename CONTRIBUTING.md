@@ -58,7 +58,7 @@ Every submission is checked in this order; the first failing step is where it co
 | Safety | Nothing in the files could harm the person running the skill (below) | Maintainer |
 | Substance | Trigger, judgment, depth (the three tests from the README) | Maintainer |
 | Identity | A real person, verifiable from `author.md` | Maintainer |
-| Publish | Merge; `index.json` regenerates; downstream libraries re-sync | CI |
+| Publish | Merge; `index.json` regenerates; your card goes live at `https://agiea-brain.github.io/agency-skills/<your-slug>.html`; downstream libraries re-sync | CI |
 
 Small format and wording fixes are made by maintainers rather than bounced. Substance stays yours.
 
