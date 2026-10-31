@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/agiea-brain/agent-skills/main/schema/skill.schema.json",
+  "$id": "https://raw.githubusercontent.com/agiea-brain/agency-skills/main/schema/skill.schema.json",
   "title": "SKILL.md frontmatter",
   "description": "Frontmatter of skills/<creator>/<skill>/SKILL.md. Parallel contract for the web app and server; tools/validate.mjs enforces the same rules without a schema library.",
   "type": "object",

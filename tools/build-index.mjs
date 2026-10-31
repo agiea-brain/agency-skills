@@ -80,7 +80,7 @@ export function buildIndex(rootDir, { repo, commit, generatedAt = new Date().toI
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
   const args = process.argv.slice(2);
   const flag = (name, dflt) => { const i = args.indexOf(name); return i === -1 ? dflt : args.splice(i, 2)[1]; };
-  const repo = flag('--repo', process.env.GITHUB_REPOSITORY ?? 'agiea-brain/agent-skills');
+  const repo = flag('--repo', process.env.GITHUB_REPOSITORY ?? 'agiea-brain/agency-skills');
   const commit = flag('--commit', process.env.GITHUB_SHA ?? 'main');
   const out = flag('--out', 'index.json');
   flag('--taxonomy-root', undefined); // accepted for symmetry with validate.mjs; unused

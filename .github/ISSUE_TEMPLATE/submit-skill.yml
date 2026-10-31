@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        If you can, let your AI agent submit for you instead; the prompt is in the README and it handles everything below, including prefilling this form for you. Format reference: [AGENTS.md](https://github.com/agiea-brain/agent-skills/blob/main/AGENTS.md). Starting points: [templates/](https://github.com/agiea-brain/agent-skills/tree/main/templates).
+        If you can, let your AI agent submit for you instead; the prompt is in the README and it handles everything below, including prefilling this form for you. Format reference: [AGENTS.md](https://github.com/agiea-brain/agency-skills/blob/main/AGENTS.md). Starting points: [templates/](https://github.com/agiea-brain/agency-skills/tree/main/templates).
   - type: input
     id: creator
     attributes:

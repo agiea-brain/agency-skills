@@ -7,10 +7,10 @@ A skill is a folder with a `SKILL.md`. Any agent that reads Markdown can use one
 ## Use a skill
 
 ```bash
-npx skills add agiea-brain/agent-skills --skill <skill-name>      # one skill
-npx skills add agiea-brain/agent-skills/skills/<creator-slug>     # one creator's whole shelf
-npx skills add agiea-brain/agent-skills                           # browse interactively
-npx skills add agiea-brain/agent-skills --list                    # what's here
+npx skills add agiea-brain/agency-skills --skill <skill-name>      # one skill
+npx skills add agiea-brain/agency-skills/skills/<creator-slug>     # one creator's whole shelf
+npx skills add agiea-brain/agency-skills                           # browse interactively
+npx skills add agiea-brain/agency-skills --list                    # what's here
 ```
 
 Pick a target with `-a claude-code`, `-a cursor`, `-a codex`, and so on.
@@ -19,7 +19,7 @@ Pick a target with `-a claude-code`, `-a cursor`, `-a codex`, and so on.
 
 The fastest route is to let your own agent do the paperwork. Paste this into Claude, Cursor, Codex, or any agent that can fetch a URL:
 
-> Fetch https://raw.githubusercontent.com/agiea-brain/agent-skills/main/AGENTS.md and follow its contribution flow. Interview me about one thing I'm genuinely expert at, until you have my frameworks, my numbers and two real examples. Draft it in their format, check it, and open the PR. If you can't use git here, give me the prefilled issue link or the paste bundle it describes.
+> Fetch https://raw.githubusercontent.com/agiea-brain/agency-skills/main/AGENTS.md and follow its contribution flow. Interview me about one thing I'm genuinely expert at, until you have my frameworks, my numbers and two real examples. Draft it in their format, check it, and open the PR. If you can't use git here, give me the prefilled issue link or the paste bundle it describes.
 
 The agent interviews you, writes the files, checks them, and opens a pull request under your name. Prefer to do it by hand, or have no git? [CONTRIBUTING.md](CONTRIBUTING.md) covers both.
 
@@ -59,7 +59,7 @@ A skill is accepted when it passes three tests: it says exactly **when** to fire
 Every merge to `main` regenerates `index.json` on the `index` branch:
 
 ```
-https://raw.githubusercontent.com/agiea-brain/agent-skills/index/index.json
+https://raw.githubusercontent.com/agiea-brain/agency-skills/index/index.json
 ```
 
 It lists every expert and skill with commit-pinned raw URLs for the content, and never includes contact emails. A webhook can be configured to fire after each publish. The validator's core is a pure function (`validateFiles` in `tools/validate.mjs`), so a submission UI can run the same checks before a PR exists.

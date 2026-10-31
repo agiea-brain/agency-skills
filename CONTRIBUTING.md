@@ -35,7 +35,7 @@ Your first PR includes `skills/<your-slug>/author.md`. The directory name is you
 **With git**
 
 ```bash
-gh repo fork agiea-brain/agent-skills --clone && cd agent-skills
+gh repo fork agiea-brain/agency-skills --clone && cd agency-skills
 git checkout -b add-<skill-name>
 # add files under skills/<your-slug>/
 node tools/validate.mjs
@@ -46,7 +46,7 @@ gh pr create --fill
 
 One skill per PR. Include `author.md` in your first PR only; later PRs that re-add it will conflict.
 
-**Without git**: open a ["Submit a skill" issue](https://github.com/agiea-brain/agent-skills/issues/new/choose) and paste your files into the form. A maintainer turns it into a PR under your name.
+**Without git**: open a ["Submit a skill" issue](https://github.com/agiea-brain/agency-skills/issues/new/choose) and paste your files into the form. A maintainer turns it into a PR under your name.
 
 ## Review
 

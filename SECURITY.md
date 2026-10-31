@@ -6,6 +6,6 @@ Skills are instructions that AI agents execute with access to the reader's own s
 
 If a published skill does something it shouldn't, or you've found a way to get one past review:
 
-- Open a [private security advisory](https://github.com/agiea-brain/agent-skills/security/advisories/new) on this repository.
+- Open a [private security advisory](https://github.com/agiea-brain/agency-skills/security/advisories/new) on this repository.
 
 Please don't file a public issue for security problems. A skill confirmed to be harmful is removed from the library and from everything that syncs from it, then the advisory is closed with a note.
