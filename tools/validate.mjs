@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Validates the agent-skills library layout and frontmatter. Zero dependencies.
+// Validates the agency-skills library layout and frontmatter. Zero dependencies.
 //
 //   node tools/validate.mjs [rootDir] [--taxonomy-root <dir>]
 //

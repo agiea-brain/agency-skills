@@ -18,16 +18,16 @@ The library: skills written by practitioners: coaches (sales, executive, leaders
 Raw URLs, for agents that fetch rather than clone:
 
 ```
-https://raw.githubusercontent.com/agiea-brain/agent-skills/main/AGENTS.md
-https://raw.githubusercontent.com/agiea-brain/agent-skills/main/schema/taxonomy.json
-https://raw.githubusercontent.com/agiea-brain/agent-skills/main/templates/skill/SKILL.md
-https://raw.githubusercontent.com/agiea-brain/agent-skills/main/templates/author.md
-https://raw.githubusercontent.com/agiea-brain/agent-skills/main/examples/skills/jane-doe/author.md
-https://raw.githubusercontent.com/agiea-brain/agent-skills/main/examples/skills/jane-doe/pipeline-review-coaching/SKILL.md
-https://raw.githubusercontent.com/agiea-brain/agent-skills/main/examples/skills/jane-doe/pipeline-review-coaching/references/scorecard.md
-https://raw.githubusercontent.com/agiea-brain/agent-skills/main/examples/skills/sam-ops/hubspot-lifecycle-stage-setup/SKILL.md
-https://raw.githubusercontent.com/agiea-brain/agent-skills/main/examples/skills/priya-natarajan/first-90-days-transition-plan/SKILL.md
-https://raw.githubusercontent.com/agiea-brain/agent-skills/main/examples/skills/priya-natarajan/first-90-days-transition-plan/references/phase-rules.md
+https://raw.githubusercontent.com/agiea-brain/agency-skills/main/AGENTS.md
+https://raw.githubusercontent.com/agiea-brain/agency-skills/main/schema/taxonomy.json
+https://raw.githubusercontent.com/agiea-brain/agency-skills/main/templates/skill/SKILL.md
+https://raw.githubusercontent.com/agiea-brain/agency-skills/main/templates/author.md
+https://raw.githubusercontent.com/agiea-brain/agency-skills/main/examples/skills/jane-doe/author.md
+https://raw.githubusercontent.com/agiea-brain/agency-skills/main/examples/skills/jane-doe/pipeline-review-coaching/SKILL.md
+https://raw.githubusercontent.com/agiea-brain/agency-skills/main/examples/skills/jane-doe/pipeline-review-coaching/references/scorecard.md
+https://raw.githubusercontent.com/agiea-brain/agency-skills/main/examples/skills/sam-ops/hubspot-lifecycle-stage-setup/SKILL.md
+https://raw.githubusercontent.com/agiea-brain/agency-skills/main/examples/skills/priya-natarajan/first-90-days-transition-plan/SKILL.md
+https://raw.githubusercontent.com/agiea-brain/agency-skills/main/examples/skills/priya-natarajan/first-90-days-transition-plan/references/phase-rules.md
 ```
 
 The three examples: `jane-doe` (short tool-agnostic coaching skill, one reference page), `sam-ops` (tool-specific implementation skill), `priya-natarajan` (a full-depth coaching skill with three reference pages; the shape to aim for).
@@ -35,9 +35,9 @@ The three examples: `jane-doe` (short tool-agnostic coaching skill, one referenc
 ## Install
 
 ```bash
-npx skills add agiea-brain/agent-skills --skill <skill-name>
-npx skills add agiea-brain/agent-skills/skills/<creator-slug>     # all of one creator's skills
-npx skills add agiea-brain/agent-skills --list
+npx skills add agiea-brain/agency-skills --skill <skill-name>
+npx skills add agiea-brain/agency-skills/skills/<creator-slug>     # all of one creator's skills
+npx skills add agiea-brain/agency-skills --list
 ```
 
 Add `-a <agent>` (`claude-code`, `cursor`, `codex` and so on) to target one agent. No terminal available? Fetch the skill folder's raw files from GitHub and place them in the agent's skills directory yourself.
@@ -63,8 +63,8 @@ In your first reply, say which path you're on, so the user knows what they'll be
 
 - Write only inside `skills/<creator-slug>/`.
 - **Creator slug**: `firstname-lastname`, lowercase, hyphens (`priya-natarajan`). If that is taken by someone else, add a distinguishing word (`priya-natarajan-coach`). It is permanent; reuse it on every later contribution.
-- **First contribution or not?** Check whether `skills/<creator-slug>/` exists: `ls skills/` in a clone, or open `https://github.com/agiea-brain/agent-skills/tree/main/skills/<creator-slug>`. If you can do neither, ask the user whether they have contributed before. First contribution: create the directory with `author.md`. Later ones: never resend `author.md` unless it is being updated.
-- **Skill slug**: a 2 to 5 word noun phrase naming the moment or the artifact, lowercase, hyphens, ≤ 60 characters (`pipeline-review-coaching`, `hubspot-lifecycle-stage-setup`, `first-90-days-transition-plan`). Not a bare topic (`sales`), not a verb phrase (`do-a-review`). It is permanent and must be unique across the library. Check: `ls skills/*/` in a clone (it lists every skill folder), or search `skills[].slug` in `https://raw.githubusercontent.com/agiea-brain/agent-skills/index/index.json`, or open `https://github.com/agiea-brain/agent-skills/tree/main/skills`. If you can do none of these, say so in the deliverable; the maintainer checks.
+- **First contribution or not?** Check whether `skills/<creator-slug>/` exists: `ls skills/` in a clone, or open `https://github.com/agiea-brain/agency-skills/tree/main/skills/<creator-slug>`. If you can do neither, ask the user whether they have contributed before. First contribution: create the directory with `author.md`. Later ones: never resend `author.md` unless it is being updated.
+- **Skill slug**: a 2 to 5 word noun phrase naming the moment or the artifact, lowercase, hyphens, ≤ 60 characters (`pipeline-review-coaching`, `hubspot-lifecycle-stage-setup`, `first-90-days-transition-plan`). Not a bare topic (`sales`), not a verb phrase (`do-a-review`). It is permanent and must be unique across the library. Check: `ls skills/*/` in a clone (it lists every skill folder), or search `skills[].slug` in `https://raw.githubusercontent.com/agiea-brain/agency-skills/index/index.json`, or open `https://github.com/agiea-brain/agency-skills/tree/main/skills`. If you can do none of these, say so in the deliverable; the maintainer checks.
 - A skill folder contains `SKILL.md` and, optionally, flat files under `references/`. Nothing else, no nesting.
 - Categories and tool slugs must come from `schema/taxonomy.json`. Read it before drafting frontmatter.
 - No lifecycle or ranking fields in any frontmatter (the Stage 3 checklist lists them). Ranking and distribution are decided outside this repo.
@@ -194,35 +194,35 @@ Errors must be fixed; each message says how. Warnings are advice: read them and 
 **Path A: shell, git, gh**
 
 ```bash
-gh repo fork agiea-brain/agent-skills --clone && cd agent-skills
+gh repo fork agiea-brain/agency-skills --clone && cd agency-skills
 git checkout -b add-<skill-name>
 # write files under skills/<creator-slug>/, run the validator
 git add skills/<creator-slug> && git commit -m "add <skill-name>"
 git push -u origin add-<skill-name>
-gh pr create --repo agiea-brain/agent-skills --title "add <skill-name>" --fill
+gh pr create --repo agiea-brain/agency-skills --title "add <skill-name>" --fill
 ```
 
 Complete the PR template honestly. Include `author.md` only in the first PR.
 
 **Path B: shell and git, no gh**
 
-Same as A, but fork in the browser first (`https://github.com/agiea-brain/agent-skills/fork`), clone the fork, push the branch, then give the user this link to open the PR:
+Same as A, but fork in the browser first (`https://github.com/agiea-brain/agency-skills/fork`), clone the fork, push the branch, then give the user this link to open the PR:
 
 ```
-https://github.com/agiea-brain/agent-skills/compare/main...<github-user>:agent-skills:add-<skill-name>?expand=1
+https://github.com/agiea-brain/agency-skills/compare/main...<github-user>:agency-skills:add-<skill-name>?expand=1
 ```
 
 **Path C: GitHub REST API with the user's token**
 
 Preferred, a pull request:
 
-1. `POST /repos/agiea-brain/agent-skills/forks` → note `owner.login`
-2. `GET /repos/agiea-brain/agent-skills/git/ref/heads/main` → `object.sha`
-3. `POST /repos/<login>/agent-skills/git/refs` with `{"ref":"refs/heads/add-<skill-name>","sha":"<sha>"}`
-4. For each file: `PUT /repos/<login>/agent-skills/contents/skills/<creator>/<...>` with `{"message":"add <skill-name>","content":"<base64>","branch":"add-<skill-name>"}`
-5. `POST /repos/agiea-brain/agent-skills/pulls` with `{"title":"add <skill-name>","head":"<login>:add-<skill-name>","base":"main","body":"<the PR template, filled in>"}`
+1. `POST /repos/agiea-brain/agency-skills/forks` → note `owner.login`
+2. `GET /repos/agiea-brain/agency-skills/git/ref/heads/main` → `object.sha`
+3. `POST /repos/<login>/agency-skills/git/refs` with `{"ref":"refs/heads/add-<skill-name>","sha":"<sha>"}`
+4. For each file: `PUT /repos/<login>/agency-skills/contents/skills/<creator>/<...>` with `{"message":"add <skill-name>","content":"<base64>","branch":"add-<skill-name>"}`
+5. `POST /repos/agiea-brain/agency-skills/pulls` with `{"title":"add <skill-name>","head":"<login>:add-<skill-name>","base":"main","body":"<the PR template, filled in>"}`
 
-Fallback, an issue: `POST /repos/agiea-brain/agent-skills/issues` with `{"title":"[submission] <skill-name>","labels":["skill-submission"],"body":"<the bundle below>"}`.
+Fallback, an issue: `POST /repos/agiea-brain/agency-skills/issues` with `{"title":"[submission] <skill-name>","labels":["skill-submission"],"body":"<the bundle below>"}`.
 
 **Path D: no tools at all**
 
@@ -231,7 +231,7 @@ Give the user one of these, in this order of preference:
 1. **A prefilled issue link.** Build the URL below with every value URL-encoded. Field names are the form's `id`s. If the finished URL is over about 8,000 characters (most skills with references are), or the link opens an empty form, use option 2 instead.
 
    ```
-   https://github.com/agiea-brain/agent-skills/issues/new?template=submit-skill.yml
+   https://github.com/agiea-brain/agency-skills/issues/new?template=submit-skill.yml
      &title=[submission]%20<skill-name>
      &creator=<creator-slug>
      &skill=<skill-name>
@@ -240,7 +240,7 @@ Give the user one of these, in this order of preference:
      &author-md=<author.md contents>
    ```
 
-2. **A paste bundle.** One Markdown block the user pastes into the "Submit a skill" issue form at `https://github.com/agiea-brain/agent-skills/issues/new/choose`, or into a PR if they have git. Format:
+2. **A paste bundle.** One Markdown block the user pastes into the "Submit a skill" issue form at `https://github.com/agiea-brain/agency-skills/issues/new/choose`, or into a PR if they have git. Format:
 
    ```
    === skills/<creator-slug>/author.md ===
@@ -259,6 +259,6 @@ Give the user one of these, in this order of preference:
 
 ### After shipping
 
-Review runs format → safety → substance → identity → publish (details in `CONTRIBUTING.md`). Safety is a hard gate: anything that exfiltrates data, embeds secrets, overrides agent instructions, or runs destructive steps without confirmation is rejected. On merge, `index.json` on the `index` branch is regenerated and downstream libraries re-sync; the skill installs with `npx skills add agiea-brain/agent-skills --skill <name>`.
+Review runs format → safety → substance → identity → publish (details in `CONTRIBUTING.md`). Safety is a hard gate: anything that exfiltrates data, embeds secrets, overrides agent instructions, or runs destructive steps without confirmation is rejected. On merge, `index.json` on the `index` branch is regenerated and downstream libraries re-sync; the skill installs with `npx skills add agiea-brain/agency-skills --skill <name>`.
 
 Tell the user what to expect: a maintainer reply on the PR or issue, possibly with edits for house voice; the substance stays theirs.

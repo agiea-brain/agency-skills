@@ -9,12 +9,12 @@ import { buildIndex } from '../tools/build-index.mjs';
 const ROOT = path.resolve(import.meta.dirname, '..');
 const GOOD = path.join(ROOT, 'examples');
 const EMPTY = path.join(ROOT, 'tests/fixtures/empty');
-const OPTS = { repo: 'agiea-brain/agent-skills', commit: 'abc123', generatedAt: '2026-01-01T00:00:00.000Z', taxonomyRoot: ROOT };
+const OPTS = { repo: 'agiea-brain/agency-skills', commit: 'abc123', generatedAt: '2026-01-01T00:00:00.000Z', taxonomyRoot: ROOT };
 
 test('index lists experts and skills from the good fixture', () => {
   const idx = buildIndex(GOOD, OPTS);
   assert.equal(idx.version, 1);
-  assert.equal(idx.repo, 'agiea-brain/agent-skills');
+  assert.equal(idx.repo, 'agiea-brain/agency-skills');
   assert.equal(idx.commit, 'abc123');
   assert.equal(idx.generatedAt, OPTS.generatedAt);
   assert.deepEqual(idx.experts.map((e) => e.slug), ['jane-doe', 'priya-natarajan', 'sam-ops']);
@@ -44,8 +44,8 @@ test('skills carry creator, tools, files with pinned raw URLs, and word count', 
   assert.equal(jane.files.length, 1);
   assert.equal(jane.files[0].path, 'skills/jane-doe/pipeline-review-coaching/references/scorecard.md');
   assert.equal(jane.files[0].ext, '.md');
-  assert.equal(jane.files[0].rawUrl, 'https://raw.githubusercontent.com/agiea-brain/agent-skills/abc123/skills/jane-doe/pipeline-review-coaching/references/scorecard.md');
-  assert.equal(jane.rawUrl, 'https://raw.githubusercontent.com/agiea-brain/agent-skills/abc123/skills/jane-doe/pipeline-review-coaching/SKILL.md');
+  assert.equal(jane.files[0].rawUrl, 'https://raw.githubusercontent.com/agiea-brain/agency-skills/abc123/skills/jane-doe/pipeline-review-coaching/references/scorecard.md');
+  assert.equal(jane.rawUrl, 'https://raw.githubusercontent.com/agiea-brain/agency-skills/abc123/skills/jane-doe/pipeline-review-coaching/SKILL.md');
   assert.ok(jane.wordCount > 50 && jane.wordCount < 400, String(jane.wordCount));
   assert.match(jane.description, /^Use this skill when/);
   assert.deepEqual(jane.contributors, []);

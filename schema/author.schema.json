@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/agiea-brain/agent-skills/main/schema/author.schema.json",
+  "$id": "https://raw.githubusercontent.com/agiea-brain/agency-skills/main/schema/author.schema.json",
   "title": "author.md frontmatter",
   "description": "Frontmatter of skills/<creator>/author.md. The directory name is the creator slug; there is no slug field. email is never published to index.json.",
   "type": "object",
