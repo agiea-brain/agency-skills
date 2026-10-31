@@ -5,7 +5,8 @@
   "scripts": {
     "test": "node --test tests/*.test.mjs",
     "validate": "node tools/validate.mjs",
-    "build-index": "node tools/build-index.mjs"
+    "build-index": "node tools/build-index.mjs",
+    "build-cards": "node tools/build-cards.mjs"
   },
   "engines": { "node": ">=22" }
 }

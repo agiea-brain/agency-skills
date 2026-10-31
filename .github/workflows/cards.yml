@@ -1,0 +1,56 @@
+# After skill content lands on main: build a profile card per creator and
+# publish them to GitHub Pages.
+#
+# Cards:   https://<owner>.github.io/<repo>/<creator-slug>.html
+# Gallery: https://<owner>.github.io/<repo>/
+#
+# One-time setup: Settings > Pages > Source: GitHub Actions.
+# workflow_dispatch allows a manual rebuild at any time.
+
+name: publish-cards
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'skills/**'
+      - 'tools/**'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish-cards
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Validate library
+        run: node tools/validate.mjs
+
+      - name: Build cards
+        run: node tools/build-cards.mjs --repo "$GITHUB_REPOSITORY" --out "$RUNNER_TEMP/site"
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ runner.temp }}/site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

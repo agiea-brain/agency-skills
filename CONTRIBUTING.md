@@ -44,7 +44,7 @@ git push -u origin add-<skill-name>
 gh pr create --fill
 ```
 
-One skill per PR. Include `author.md` in your first PR only; later PRs that re-add it will conflict.
+One creator per PR, one or more skills from that creator. Name the branch `add-<skill-name>` for a single skill or `add-<creator-slug>-skills` for a batch. Include `author.md` in your first PR only; later PRs that re-add it will conflict.
 
 **Without git**: open a ["Submit a skill" issue](https://github.com/agiea-brain/agency-skills/issues/new/choose) and paste your files into the form. A maintainer turns it into a PR under your name.
 
