@@ -44,7 +44,7 @@ Add `-a <agent>` (`claude-code`, `cursor`, `codex` and so on) to target one agen
 
 ## Contribute
 
-Four stages, in order: **Discover → Draft → Check → Ship**. One skill per submission.
+Four stages, in order: **Discover → Draft → Check → Ship**. One creator per submission: a PR may add one skill or several, as long as every file sits under the same `skills/<creator-slug>/`. Each skill still gets its own folder, `SKILL.md`, references and validator pass.
 
 ### First: what can you do in this environment?
 

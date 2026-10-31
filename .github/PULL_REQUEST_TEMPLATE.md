@@ -1,8 +1,8 @@
-<!-- One skill per pull request. Touch only skills/<your-slug>/. -->
+<!-- One creator per pull request; one skill or several. Touch only skills/<your-slug>/. -->
 
-## The skill
+## The skill(s)
 
-<!-- Who reaches for this, and at what moment? One or two sentences. -->
+<!-- Who reaches for this, and at what moment? One or two sentences. For a batch, one line per skill. -->
 
 ## Kind
 
