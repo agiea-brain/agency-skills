@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T17:18:13.052Z",
-  "commit": "f0dc8bb72172d2568718756df9b4d7e933438edb",
+  "generatedAt": "2026-10-31T18:08:21.416Z",
+  "commit": "d39bb558b934600ae327f6eca9b6583f63159db8",
   "repo": "agiea-brain/agency-skills",
   "experts": [
     {
@@ -21,7 +21,7 @@
       ],
       "linkedinUrl": "https://www.linkedin.com/in/christopherrdubois",
       "companyDomain": "dynamicagencyos.com",
-      "avatarUrl": null,
+      "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-KTYCqjMqTIaVENtMmjPsCAeVQ43jMe_tcMcBlo2_w&s",
       "websiteUrl": "https://dynamicagencyos.com",
       "bio": "Chris DuBois coaches founders of sub-$1M agencies on positioning, messaging and offers, so new work keeps coming in during their busiest delivery weeks instead of depending on referrals. His skills encode how he edits and reviews agency copy: cutting short-form copy down to one sharp claim, and reading a finished page as the real buyer to find where trust breaks.",
       "skills": [
@@ -110,9 +110,75 @@
         "revenue-goal-funnel-math"
       ],
       "path": "skills/tanyo-gochev/author.md"
+    },
+    {
+      "slug": "tony-dowling",
+      "name": "Tony Dowling",
+      "title": "Director, CONVRG",
+      "headline": "I fix founder-led B2B sales teams with forward commercial maths, a management rhythm and the Four Pillars sales operating system.",
+      "expertise": [
+        "sales-management",
+        "sales-coaching",
+        "pipeline-coverage",
+        "hubspot",
+        "sales-hiring",
+        "negotiation",
+        "prospecting"
+      ],
+      "categories": [
+        "Sales Coaching",
+        "Sales",
+        "Hiring"
+      ],
+      "linkedinUrl": "https://www.linkedin.com/in/tony-dowling-sales-marketing/",
+      "companyDomain": "convrg.agency",
+      "avatarUrl": "https://convrg.agency/hubfs/680a3b439f39727c2c51224e-HeadshotPro.png",
+      "websiteUrl": "https://convrg.agency",
+      "bio": "Tony Dowling has spent three decades selling and running sales teams, and now leads the sales-transformation side of CONVRG, a HubSpot adoption specialist for founder-led B2B firms. He created the Four Pillars framework, which sets how a business should sell and how its managers coach and enforce that standard. His skills encode the daily and weekly mechanics of that system: the targeting angles, the 15-minute diagnostic call, the Friday reconciliation, the 80/55/35 coverage maths, and the interview that stops a manager hiring a professional interviewee.",
+      "skills": [
+        "activity-incentive-sprint",
+        "candidate-interview-coach",
+        "client-list-stack-pitch",
+        "commercial-kpi-scoreboard",
+        "commercial-telemetry-coach",
+        "friday-reality-review",
+        "objection-comeback-coach",
+        "price-defense-trade",
+        "target-plan-coverage",
+        "targeting-strategy-ideas"
+      ],
+      "path": "skills/tony-dowling/author.md"
     }
   ],
   "skills": [
+    {
+      "slug": "activity-incentive-sprint",
+      "title": "Activity incentive sprint",
+      "description": "Use this skill when a sales team's pattern needs interrupting for a few days: Call 1 bookings have dried up, presentations have stalled, a dormant list needs clearing, or the quarter needs a jolt. Produces an Executive Sprint Brief for a 1-day blitz, 3-day push or 2-week sprint, with targets worked from the team's real baseline, qualifying criteria, a scoreboard, a reward and three daily huddle prompts. Also use for \"sales blitz\", \"sprint incentive\", \"spiff\", \"activity competition\", \"get the team booking meetings this week\".",
+      "category": "Sales Coaching",
+      "tags": [
+        "sales-sprint",
+        "incentive",
+        "blitz",
+        "leading-indicators",
+        "call-1",
+        "team-energy",
+        "huddle"
+      ],
+      "tools": [],
+      "creator": "tony-dowling",
+      "contributors": [],
+      "path": "skills/tony-dowling/activity-incentive-sprint/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/activity-incentive-sprint/SKILL.md",
+      "files": [
+        {
+          "path": "skills/tony-dowling/activity-incentive-sprint/references/sprint-brief-template.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/activity-incentive-sprint/references/sprint-brief-template.md",
+          "ext": ".md"
+        }
+      ],
+      "wordCount": 641
+    },
     {
       "slug": "buyer-read",
       "title": "Buyer read",
@@ -129,25 +195,158 @@
       "creator": "chris-dubois",
       "contributors": [],
       "path": "skills/chris-dubois/buyer-read/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/chris-dubois/buyer-read/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/chris-dubois/buyer-read/SKILL.md",
       "files": [
         {
           "path": "skills/chris-dubois/buyer-read/references/persona-and-checks.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/chris-dubois/buyer-read/references/persona-and-checks.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/chris-dubois/buyer-read/references/persona-and-checks.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/buyer-read/references/scoring-rubric.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/chris-dubois/buyer-read/references/scoring-rubric.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/chris-dubois/buyer-read/references/scoring-rubric.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/buyer-read/references/worked-example.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/chris-dubois/buyer-read/references/worked-example.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/chris-dubois/buyer-read/references/worked-example.md",
           "ext": ".md"
         }
       ],
       "wordCount": 776
+    },
+    {
+      "slug": "candidate-interview-coach",
+      "title": "Candidate interview coach",
+      "description": "Use this skill when a sales manager is about to interview a salesperson, has just finished one, or is about to make an offer. Three modes: /prep turns a CV or LinkedIn profile into red flags, forensic commercial-maths questions, a 45-second cold-call roleplay and accountability probes; /evaluate scores interview notes or a transcript on five dimensions with a hire, conditional or reject call; /contract generates a signature-ready Pre-Employment Accountability Agreement. Also use for \"interview questions for a sales hire\", \"is this candidate any good\", \"sales rep CV review\", \"accountability agreement\", \"forensic interview\".",
+      "category": "Hiring",
+      "tags": [
+        "sales-hiring",
+        "interview",
+        "cv-review",
+        "forensic-questions",
+        "roleplay",
+        "accountability-agreement",
+        "coachability"
+      ],
+      "tools": [],
+      "creator": "tony-dowling",
+      "contributors": [],
+      "path": "skills/tony-dowling/candidate-interview-coach/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/candidate-interview-coach/SKILL.md",
+      "files": [
+        {
+          "path": "skills/tony-dowling/candidate-interview-coach/references/accountability-agreement.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/candidate-interview-coach/references/accountability-agreement.md",
+          "ext": ".md"
+        },
+        {
+          "path": "skills/tony-dowling/candidate-interview-coach/references/evaluate-scorecard.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/candidate-interview-coach/references/evaluate-scorecard.md",
+          "ext": ".md"
+        },
+        {
+          "path": "skills/tony-dowling/candidate-interview-coach/references/prep-mode.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/candidate-interview-coach/references/prep-mode.md",
+          "ext": ".md"
+        }
+      ],
+      "wordCount": 672
+    },
+    {
+      "slug": "client-list-stack-pitch",
+      "title": "Client list and stack pitch",
+      "description": "Use this skill when a rep's account list needs reviewing: a list meeting is due, the book is over capacity, or expansion revenue has gone quiet. Produces a prioritised table of every account with tier, days since last meaningful touch, health status (Healthy, Inactive Alert, Eviction Candidate, Flag On Track, Flag Expired) and an account-specific stack pitch angle, plus a capacity line and the week's 3 to 5 moves. Also use for \"list review\", \"rent the list\", \"which accounts should Danny drop\", \"eviction candidates\", \"stack pitch\", \"expansion angles for my book\".",
+      "category": "Sales Coaching",
+      "tags": [
+        "account-list",
+        "rent-the-list",
+        "stack-pitch",
+        "expansion",
+        "capacity",
+        "list-review",
+        "eviction"
+      ],
+      "tools": [
+        "hubspot"
+      ],
+      "creator": "tony-dowling",
+      "contributors": [],
+      "path": "skills/tony-dowling/client-list-stack-pitch/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/client-list-stack-pitch/SKILL.md",
+      "files": [
+        {
+          "path": "skills/tony-dowling/client-list-stack-pitch/references/list-health-rules.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/client-list-stack-pitch/references/list-health-rules.md",
+          "ext": ".md"
+        }
+      ],
+      "wordCount": 673
+    },
+    {
+      "slug": "commercial-kpi-scoreboard",
+      "title": "Commercial KPI scoreboard",
+      "description": "Use this skill when a sales manager or rep asks how the numbers look for a rep or the whole team over today, this week, this month or the quarter. Produces a six-row scoreboard from live CRM deal data: presentations made, closing ratio, sales velocity, average order value, current billing, and position against target, with a 2 to 3 line commercial read. Also use for \"how is Danny doing this month\", \"team scoreboard\", \"closing ratio\", \"sales velocity\", \"are we on target\", \"KPI check\".",
+      "category": "Sales Coaching",
+      "tags": [
+        "kpis",
+        "scoreboard",
+        "closing-ratio",
+        "sales-velocity",
+        "quota",
+        "deal-telemetry"
+      ],
+      "tools": [
+        "hubspot"
+      ],
+      "creator": "tony-dowling",
+      "contributors": [],
+      "path": "skills/tony-dowling/commercial-kpi-scoreboard/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/commercial-kpi-scoreboard/SKILL.md",
+      "files": [
+        {
+          "path": "skills/tony-dowling/commercial-kpi-scoreboard/references/kpi-definitions.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/commercial-kpi-scoreboard/references/kpi-definitions.md",
+          "ext": ".md"
+        }
+      ],
+      "wordCount": 534
+    },
+    {
+      "slug": "commercial-telemetry-coach",
+      "title": "Commercial telemetry coach",
+      "description": "Use this skill when a sales manager or founder needs to install or run forward commercial discipline: setting up the five-tab telemetry workbook (/setup-telemetry), checking booked percentage, gap and 3x coverage per rep across the next three months (/check-coverage), or auditing whether the workshop outputs and workbook are present and current (/audit). Produces, by mode, a built workbook, a per-rep coverage table with this week's prescriptions on the floor, or a pass/fail checklist. Also use for \"target to booked to gap to pipeline to coverage\", \"telemetry check\", \"are we covered for next month\", \"set up the commercial workbook\".",
+      "category": "Sales Coaching",
+      "tags": [
+        "commercial-telemetry",
+        "pipeline-coverage",
+        "80-55-35",
+        "booked-revenue",
+        "rent-the-list",
+        "management-rhythm",
+        "workbook"
+      ],
+      "tools": [
+        "hubspot",
+        "google-sheets"
+      ],
+      "creator": "tony-dowling",
+      "contributors": [],
+      "path": "skills/tony-dowling/commercial-telemetry-coach/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/commercial-telemetry-coach/SKILL.md",
+      "files": [
+        {
+          "path": "skills/tony-dowling/commercial-telemetry-coach/references/coverage-check.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/commercial-telemetry-coach/references/coverage-check.md",
+          "ext": ".md"
+        },
+        {
+          "path": "skills/tony-dowling/commercial-telemetry-coach/references/workbook-tabs.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/commercial-telemetry-coach/references/workbook-tabs.md",
+          "ext": ".md"
+        }
+      ],
+      "wordCount": 649
     },
     {
       "slug": "delivery-audit-discovery-call",
@@ -167,25 +366,54 @@
       "creator": "gary-magnone",
       "contributors": [],
       "path": "skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
       "files": [
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
           "ext": ".md"
         },
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
           "ext": ".md"
         },
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
           "ext": ".md"
         }
       ],
       "wordCount": 857
+    },
+    {
+      "slug": "friday-reality-review",
+      "title": "Friday reality review",
+      "description": "Use this skill on Friday afternoon, or whenever a week's commitments need reconciling against what actually happened, per rep and for the team. Produces a Friday Wrap Scoreboard: won and lost, presentations, Call 1s held versus booked, versus target, slipping deals with the reason from call notes, a category per rep (Delivered, At Risk, Blocked) and three coaching questions for each Friday one-to-one. Also use for \"Friday wrap\", \"what slipped this week\", \"Monday commitments versus Friday\", \"weekly reconciliation\", \"who is at risk this week\".",
+      "category": "Sales Coaching",
+      "tags": [
+        "friday-review",
+        "weekly-reconciliation",
+        "slippage",
+        "coaching-questions",
+        "scoreboard",
+        "management-rhythm"
+      ],
+      "tools": [
+        "hubspot"
+      ],
+      "creator": "tony-dowling",
+      "contributors": [],
+      "path": "skills/tony-dowling/friday-reality-review/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/friday-reality-review/SKILL.md",
+      "files": [
+        {
+          "path": "skills/tony-dowling/friday-reality-review/references/scoreboard-and-questions.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/friday-reality-review/references/scoreboard-and-questions.md",
+          "ext": ".md"
+        }
+      ],
+      "wordCount": 617
     },
     {
       "slug": "linkedin-shoutout-post",
@@ -203,25 +431,52 @@
       "creator": "tanyo-gochev",
       "contributors": [],
       "path": "skills/tanyo-gochev/linkedin-shoutout-post/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/tanyo-gochev/linkedin-shoutout-post/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tanyo-gochev/linkedin-shoutout-post/SKILL.md",
       "files": [
         {
           "path": "skills/tanyo-gochev/linkedin-shoutout-post/references/post-check.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/tanyo-gochev/linkedin-shoutout-post/references/post-check.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tanyo-gochev/linkedin-shoutout-post/references/post-check.md",
           "ext": ".md"
         },
         {
           "path": "skills/tanyo-gochev/linkedin-shoutout-post/references/target-and-research.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/tanyo-gochev/linkedin-shoutout-post/references/target-and-research.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tanyo-gochev/linkedin-shoutout-post/references/target-and-research.md",
           "ext": ".md"
         },
         {
           "path": "skills/tanyo-gochev/linkedin-shoutout-post/references/worked-examples.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/tanyo-gochev/linkedin-shoutout-post/references/worked-examples.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tanyo-gochev/linkedin-shoutout-post/references/worked-examples.md",
           "ext": ".md"
         }
       ],
       "wordCount": 694
+    },
+    {
+      "slug": "objection-comeback-coach",
+      "title": "Objection comeback coach",
+      "description": "Use this skill when a rep has just heard a brush-off (\"send me some info\", \"we already have someone\", \"call back in six months\", \"no budget\", \"I need to run it past the board\") and needs the team's own tested comeback before the next dial. Produces a cheat-sheet: the recorded comeback from the team's Comeback Book as a word-for-word spoken script, variants to choose from, a 3-line email version, and a pivot to the 15-minute diagnostic Call 1. Also use for \"what do I say when they say X\", \"objection handling\", \"comeback for the incumbent objection\", \"they told me to email them\".",
+      "category": "Sales",
+      "tags": [
+        "objections",
+        "comeback-book",
+        "brush-off",
+        "call-1",
+        "prospecting",
+        "scripts"
+      ],
+      "tools": [],
+      "creator": "tony-dowling",
+      "contributors": [],
+      "path": "skills/tony-dowling/objection-comeback-coach/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/objection-comeback-coach/SKILL.md",
+      "files": [
+        {
+          "path": "skills/tony-dowling/objection-comeback-coach/references/comeback-framework.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/objection-comeback-coach/references/comeback-framework.md",
+          "ext": ".md"
+        }
+      ],
+      "wordCount": 564
     },
     {
       "slug": "plain-language-copy-check",
@@ -239,20 +494,49 @@
       "creator": "tanyo-gochev",
       "contributors": [],
       "path": "skills/tanyo-gochev/plain-language-copy-check/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/tanyo-gochev/plain-language-copy-check/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tanyo-gochev/plain-language-copy-check/SKILL.md",
       "files": [
         {
           "path": "skills/tanyo-gochev/plain-language-copy-check/references/check-sheet.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/tanyo-gochev/plain-language-copy-check/references/check-sheet.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tanyo-gochev/plain-language-copy-check/references/check-sheet.md",
           "ext": ".md"
         },
         {
           "path": "skills/tanyo-gochev/plain-language-copy-check/references/word-swaps.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/tanyo-gochev/plain-language-copy-check/references/word-swaps.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tanyo-gochev/plain-language-copy-check/references/word-swaps.md",
           "ext": ".md"
         }
       ],
       "wordCount": 519
+    },
+    {
+      "slug": "price-defense-trade",
+      "title": "Price defence and trade",
+      "description": "Use this skill the moment a rep reports price pushback on a live deal and has a call or meeting coming. Produces a one-line diagnosis of the real cause (budget, competitor, or procurement testing nerve), a value re-anchor script, a concession trading matrix of three \"give X to get Y\" trades drawn from the firm's own menu, and a walk-away line, plus a printable takeaway. Also use for \"they want a discount\", \"price objection\", \"competitor is cheaper\", \"procurement is squeezing us\", \"how do I hold the price\", \"negotiation prep\".",
+      "category": "Sales",
+      "tags": [
+        "negotiation",
+        "pricing",
+        "discount",
+        "concession-trading",
+        "procurement",
+        "value-anchor"
+      ],
+      "tools": [
+        "hubspot"
+      ],
+      "creator": "tony-dowling",
+      "contributors": [],
+      "path": "skills/tony-dowling/price-defense-trade/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/price-defense-trade/SKILL.md",
+      "files": [
+        {
+          "path": "skills/tony-dowling/price-defense-trade/references/trading-matrix.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/price-defense-trade/references/trading-matrix.md",
+          "ext": ".md"
+        }
+      ],
+      "wordCount": 651
     },
     {
       "slug": "punch-up",
@@ -270,26 +554,26 @@
       "creator": "chris-dubois",
       "contributors": [],
       "path": "skills/chris-dubois/punch-up/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/chris-dubois/punch-up/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/chris-dubois/punch-up/SKILL.md",
       "files": [
         {
           "path": "skills/chris-dubois/punch-up/references/bloat-patterns.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/chris-dubois/punch-up/references/bloat-patterns.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/chris-dubois/punch-up/references/bloat-patterns.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/punch-up/references/calibration-pairs.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/chris-dubois/punch-up/references/calibration-pairs.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/chris-dubois/punch-up/references/calibration-pairs.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/punch-up/references/hook-toolbox.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/chris-dubois/punch-up/references/hook-toolbox.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/chris-dubois/punch-up/references/hook-toolbox.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/punch-up/references/rubric.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/chris-dubois/punch-up/references/rubric.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/chris-dubois/punch-up/references/rubric.md",
           "ext": ".md"
         }
       ],
@@ -312,21 +596,21 @@
       "creator": "tanyo-gochev",
       "contributors": [],
       "path": "skills/tanyo-gochev/revenue-goal-funnel-math/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/tanyo-gochev/revenue-goal-funnel-math/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tanyo-gochev/revenue-goal-funnel-math/SKILL.md",
       "files": [
         {
           "path": "skills/tanyo-gochev/revenue-goal-funnel-math/references/funnel-chain.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/tanyo-gochev/revenue-goal-funnel-math/references/funnel-chain.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tanyo-gochev/revenue-goal-funnel-math/references/funnel-chain.md",
           "ext": ".md"
         },
         {
           "path": "skills/tanyo-gochev/revenue-goal-funnel-math/references/thresholds.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/tanyo-gochev/revenue-goal-funnel-math/references/thresholds.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tanyo-gochev/revenue-goal-funnel-math/references/thresholds.md",
           "ext": ".md"
         },
         {
           "path": "skills/tanyo-gochev/revenue-goal-funnel-math/references/worked-examples.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/tanyo-gochev/revenue-goal-funnel-math/references/worked-examples.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tanyo-gochev/revenue-goal-funnel-math/references/worked-examples.md",
           "ext": ".md"
         }
       ],
@@ -348,15 +632,73 @@
       "creator": "rob-kaminski",
       "contributors": [],
       "path": "skills/rob-kaminski/sales-call-market-analyzer/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/rob-kaminski/sales-call-market-analyzer/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/rob-kaminski/sales-call-market-analyzer/SKILL.md",
       "files": [
         {
           "path": "skills/rob-kaminski/sales-call-market-analyzer/references/jtbd-clustering.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f0dc8bb72172d2568718756df9b4d7e933438edb/skills/rob-kaminski/sales-call-market-analyzer/references/jtbd-clustering.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/rob-kaminski/sales-call-market-analyzer/references/jtbd-clustering.md",
           "ext": ".md"
         }
       ],
       "wordCount": 1663
+    },
+    {
+      "slug": "target-plan-coverage",
+      "title": "Target plan and coverage",
+      "description": "Use this skill when a rep or a manager needs to know whether the next three months are covered: Monday planning, a monthly review, or any \"are we going to hit it\" question. Produces a per-month table for Month 0, +1 and +2 with target, booked revenue, the 80/55/35 booked benchmark, the gap, qualified pipeline and the 3x coverage verdict, plus where to focus. Also use for \"pipeline coverage\", \"target plan\", \"booked versus target\", \"gap to target\", \"am I on track for next month\", \"Monday coverage run\".",
+      "category": "Sales Coaching",
+      "tags": [
+        "pipeline-coverage",
+        "target-plan",
+        "80-55-35",
+        "forecasting",
+        "booked-revenue",
+        "monday-review"
+      ],
+      "tools": [
+        "hubspot"
+      ],
+      "creator": "tony-dowling",
+      "contributors": [],
+      "path": "skills/tony-dowling/target-plan-coverage/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/target-plan-coverage/SKILL.md",
+      "files": [
+        {
+          "path": "skills/tony-dowling/target-plan-coverage/references/coverage-math.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/target-plan-coverage/references/coverage-math.md",
+          "ext": ".md"
+        }
+      ],
+      "wordCount": 643
+    },
+    {
+      "slug": "targeting-strategy-ideas",
+      "title": "Targeting strategy ideas",
+      "description": "Use this skill when a rep names a prospect or a sector and needs a sharper reason to call than \"introduce ourselves\". Produces 3 to 4 commercially provocative idea angles, each with the angle, the consequence of doing nothing, and a 2 to 3 sentence phone opener to secure a 15-minute diagnostic call, grounded only in services the firm actually sells. Also use for \"give me an angle on X\", \"ideas for approaching the Y sector\", \"what do I say to get the meeting\", \"targeting ideas\", \"phone opener for a prospect\".",
+      "category": "Sales",
+      "tags": [
+        "prospecting",
+        "targeting",
+        "phone-opener",
+        "call-1",
+        "idea-angles",
+        "b2b-services"
+      ],
+      "tools": [
+        "hubspot"
+      ],
+      "creator": "tony-dowling",
+      "contributors": [],
+      "path": "skills/tony-dowling/targeting-strategy-ideas/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/targeting-strategy-ideas/SKILL.md",
+      "files": [
+        {
+          "path": "skills/tony-dowling/targeting-strategy-ideas/references/idea-template.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/d39bb558b934600ae327f6eca9b6583f63159db8/skills/tony-dowling/targeting-strategy-ideas/references/idea-template.md",
+          "ext": ".md"
+        }
+      ],
+      "wordCount": 590
     }
   ]
 }
