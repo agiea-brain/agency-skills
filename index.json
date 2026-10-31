@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T16:22:10.242Z",
-  "commit": "9d5bcce13255968cc190faea49e2a4f2df20e900",
+  "generatedAt": "2026-10-31T16:24:29.208Z",
+  "commit": "754e5b3d1a61ab0200ce61d841bcb707ca6a7872",
   "repo": "agiea-brain/agent-skills",
   "experts": [
     {
@@ -78,7 +78,8 @@
       "websiteUrl": "https://demanddept.com",
       "bio": "Tanyo Gochev is Co-Founder and Head of GTM at The Demand Department, which builds outbound systems for B2B companies: cold email, LinkedIn outreach and LinkedIn content run together. His skills encode the parts of that work he does every week: writing outreach a busy buyer can read in one pass, using LinkedIn posts to build relationships with founders in his market, and working a revenue goal back into a weekly outreach number.",
       "skills": [
-        "linkedin-shoutout-post"
+        "linkedin-shoutout-post",
+        "revenue-goal-funnel-math"
       ],
       "path": "skills/tanyo-gochev/author.md"
     }
@@ -100,21 +101,21 @@
       "creator": "chris-dubois",
       "contributors": [],
       "path": "skills/chris-dubois/buyer-read/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/buyer-read/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/chris-dubois/buyer-read/SKILL.md",
       "files": [
         {
           "path": "skills/chris-dubois/buyer-read/references/persona-and-checks.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/buyer-read/references/persona-and-checks.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/chris-dubois/buyer-read/references/persona-and-checks.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/buyer-read/references/scoring-rubric.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/buyer-read/references/scoring-rubric.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/chris-dubois/buyer-read/references/scoring-rubric.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/buyer-read/references/worked-example.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/buyer-read/references/worked-example.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/chris-dubois/buyer-read/references/worked-example.md",
           "ext": ".md"
         }
       ],
@@ -138,21 +139,21 @@
       "creator": "gary-magnone",
       "contributors": [],
       "path": "skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
       "files": [
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
           "ext": ".md"
         },
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
           "ext": ".md"
         },
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
           "ext": ".md"
         }
       ],
@@ -174,21 +175,21 @@
       "creator": "tanyo-gochev",
       "contributors": [],
       "path": "skills/tanyo-gochev/linkedin-shoutout-post/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/tanyo-gochev/linkedin-shoutout-post/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/tanyo-gochev/linkedin-shoutout-post/SKILL.md",
       "files": [
         {
           "path": "skills/tanyo-gochev/linkedin-shoutout-post/references/post-check.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/tanyo-gochev/linkedin-shoutout-post/references/post-check.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/tanyo-gochev/linkedin-shoutout-post/references/post-check.md",
           "ext": ".md"
         },
         {
           "path": "skills/tanyo-gochev/linkedin-shoutout-post/references/target-and-research.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/tanyo-gochev/linkedin-shoutout-post/references/target-and-research.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/tanyo-gochev/linkedin-shoutout-post/references/target-and-research.md",
           "ext": ".md"
         },
         {
           "path": "skills/tanyo-gochev/linkedin-shoutout-post/references/worked-examples.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/tanyo-gochev/linkedin-shoutout-post/references/worked-examples.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/tanyo-gochev/linkedin-shoutout-post/references/worked-examples.md",
           "ext": ".md"
         }
       ],
@@ -210,30 +211,67 @@
       "creator": "chris-dubois",
       "contributors": [],
       "path": "skills/chris-dubois/punch-up/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/punch-up/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/chris-dubois/punch-up/SKILL.md",
       "files": [
         {
           "path": "skills/chris-dubois/punch-up/references/bloat-patterns.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/punch-up/references/bloat-patterns.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/chris-dubois/punch-up/references/bloat-patterns.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/punch-up/references/calibration-pairs.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/punch-up/references/calibration-pairs.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/chris-dubois/punch-up/references/calibration-pairs.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/punch-up/references/hook-toolbox.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/punch-up/references/hook-toolbox.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/chris-dubois/punch-up/references/hook-toolbox.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/punch-up/references/rubric.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/punch-up/references/rubric.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/chris-dubois/punch-up/references/rubric.md",
           "ext": ".md"
         }
       ],
       "wordCount": 740
+    },
+    {
+      "slug": "revenue-goal-funnel-math",
+      "title": "Revenue goal funnel math",
+      "description": "Use this skill when a founder sets a revenue or income goal and needs to know what it takes each week, or when a weekly review shows the goal slipping. Produces a backwards funnel from the goal down to weekly outreach volume, the actual-versus-required gap at every stage, and the one bottleneck to fix this week. Also use for \"how many calls do I need\", \"reverse funnel\", \"goal math\", \"what's the bottleneck\", \"are we on pace\", \"weekly pipeline review\".",
+      "category": "Strategy",
+      "tags": [
+        "funnel-math",
+        "pipeline",
+        "founder-led-sales",
+        "weekly-review",
+        "bottleneck",
+        "b2b-services"
+      ],
+      "tools": [],
+      "creator": "tanyo-gochev",
+      "contributors": [],
+      "path": "skills/tanyo-gochev/revenue-goal-funnel-math/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/tanyo-gochev/revenue-goal-funnel-math/SKILL.md",
+      "files": [
+        {
+          "path": "skills/tanyo-gochev/revenue-goal-funnel-math/references/funnel-chain.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/tanyo-gochev/revenue-goal-funnel-math/references/funnel-chain.md",
+          "ext": ".md"
+        },
+        {
+          "path": "skills/tanyo-gochev/revenue-goal-funnel-math/references/thresholds.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/tanyo-gochev/revenue-goal-funnel-math/references/thresholds.md",
+          "ext": ".md"
+        },
+        {
+          "path": "skills/tanyo-gochev/revenue-goal-funnel-math/references/worked-examples.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/754e5b3d1a61ab0200ce61d841bcb707ca6a7872/skills/tanyo-gochev/revenue-goal-funnel-math/references/worked-examples.md",
+          "ext": ".md"
+        }
+      ],
+      "wordCount": 572
     }
   ]
 }
