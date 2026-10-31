@@ -4,6 +4,8 @@ A library of skills written by people who do the work for a living: sales and ex
 
 A skill is a folder with a `SKILL.md`. Any agent that reads Markdown can use one: Claude Code, Cursor, Codex, Claude Desktop, and most others.
 
+Browse the people and their skills at **[agiea-brain.github.io/agency-skills](https://agiea-brain.github.io/agency-skills/)**. Each creator has a card at `/<creator-slug>.html`.
+
 ## Use a skill
 
 ```bash
@@ -43,7 +45,7 @@ skills/<creator>/            one directory per person
   <skill>/SKILL.md           the skill
   <skill>/references/*.md    optional depth: rubrics, scripts, worked examples
 schema/                      taxonomy + JSON Schemas for the two frontmatter shapes
-tools/                       validate.mjs, build-index.mjs (zero dependencies)
+tools/                       validate.mjs, build-index.mjs, build-cards.mjs (zero dependencies)
 templates/                   copy these to start
 examples/                    three finished skills (fictional people); the shape to imitate
 ```
@@ -62,7 +64,7 @@ Every merge to `main` regenerates `index.json` on the `index` branch:
 https://raw.githubusercontent.com/agiea-brain/agency-skills/index/index.json
 ```
 
-It lists every expert and skill with commit-pinned raw URLs for the content, and never includes contact emails. A webhook can be configured to fire after each publish. The validator's core is a pure function (`validateFiles` in `tools/validate.mjs`), so a submission UI can run the same checks before a PR exists.
+It lists every expert and skill with commit-pinned raw URLs for the content, and never includes contact emails. A webhook can be configured to fire after each publish. The same merge rebuilds the creator cards on GitHub Pages at `https://agiea-brain.github.io/agency-skills/<creator-slug>.html`, with a gallery at the root. The validator's core is a pure function (`validateFiles` in `tools/validate.mjs`), so a submission UI can run the same checks before a PR exists.
 
 ## License
 

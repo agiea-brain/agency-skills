@@ -12,6 +12,7 @@ The library: skills written by practitioners: coaches (sales, executive, leaders
 | "turn my process into a skill", "contribute", "publish my playbook" | [Contribute](#contribute) |
 | "update my skill / my profile" | [Contribute](#contribute), editing only their existing `skills/<slug>/` |
 | "which categories / tools exist?" | fetch `schema/taxonomy.json` |
+| "show me the creators", "link to my profile card" | `https://agiea-brain.github.io/agency-skills/` (gallery) and `https://agiea-brain.github.io/agency-skills/<creator-slug>.html` (one card) |
 | "show me what a finished skill looks like" | fetch the files under `examples/skills/` (fictional people, real shape) |
 | "what exactly is allowed in frontmatter?" | `schema/skill.schema.json` and `schema/author.schema.json` |
 
@@ -259,6 +260,6 @@ Give the user one of these, in this order of preference:
 
 ### After shipping
 
-Review runs format → safety → substance → identity → publish (details in `CONTRIBUTING.md`). Safety is a hard gate: anything that exfiltrates data, embeds secrets, overrides agent instructions, or runs destructive steps without confirmation is rejected. On merge, `index.json` on the `index` branch is regenerated and downstream libraries re-sync; the skill installs with `npx skills add agiea-brain/agency-skills --skill <name>`.
+Review runs format → safety → substance → identity → publish (details in `CONTRIBUTING.md`). Safety is a hard gate: anything that exfiltrates data, embeds secrets, overrides agent instructions, or runs destructive steps without confirmation is rejected. On merge, `index.json` on the `index` branch is regenerated, downstream libraries re-sync, and the creator's card is rebuilt at `https://agiea-brain.github.io/agency-skills/<creator-slug>.html`; the skill installs with `npx skills add agiea-brain/agency-skills --skill <name>`.
 
 Tell the user what to expect: a maintainer reply on the PR or issue, possibly with edits for house voice; the substance stays theirs.

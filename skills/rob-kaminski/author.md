@@ -5,6 +5,7 @@ headline: I help early-stage B2B SaaS founders position and explain their produc
 linkedinUrl: https://www.linkedin.com/in/heyrobk
 companyDomain: fletchpmm.com
 expertise: [positioning, product-marketing, messaging, icp-definition, jobs-to-be-done, b2b-saas]
+avatarUrl: https://images.contactout.com/profiles/f774adead077bc14423a4e29db897901
 categories: [Marketing, Strategy]
 ---
 
