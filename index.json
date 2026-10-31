@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T19:18:24.235Z",
-  "commit": "4f1658ced2e77a780983cb57f20d2bf1e885436d",
+  "generatedAt": "2026-10-31T16:22:10.242Z",
+  "commit": "9d5bcce13255968cc190faea49e2a4f2df20e900",
   "repo": "agiea-brain/agent-skills",
   "experts": [
     {
@@ -54,6 +54,33 @@
         "delivery-audit-discovery-call"
       ],
       "path": "skills/gary-magnone/author.md"
+    },
+    {
+      "slug": "tanyo-gochev",
+      "name": "Tanyo Gochev",
+      "title": "Co-Founder & Head of GTM, The Demand Department",
+      "headline": "I help B2B founders build outbound that books sales calls, with cold email, LinkedIn outreach and LinkedIn content run as one system.",
+      "expertise": [
+        "outbound",
+        "cold-email",
+        "linkedin-outreach",
+        "linkedin-content",
+        "founder-led-sales",
+        "pipeline-math"
+      ],
+      "categories": [
+        "Marketing",
+        "Strategy"
+      ],
+      "linkedinUrl": "https://www.linkedin.com/in/tanyo/",
+      "companyDomain": "demanddept.com",
+      "avatarUrl": "https://www.gtmskills.com/authors/tanyo-gochev.jpg",
+      "websiteUrl": "https://demanddept.com",
+      "bio": "Tanyo Gochev is Co-Founder and Head of GTM at The Demand Department, which builds outbound systems for B2B companies: cold email, LinkedIn outreach and LinkedIn content run together. His skills encode the parts of that work he does every week: writing outreach a busy buyer can read in one pass, using LinkedIn posts to build relationships with founders in his market, and working a revenue goal back into a weekly outreach number.",
+      "skills": [
+        "linkedin-shoutout-post"
+      ],
+      "path": "skills/tanyo-gochev/author.md"
     }
   ],
   "skills": [
@@ -73,21 +100,21 @@
       "creator": "chris-dubois",
       "contributors": [],
       "path": "skills/chris-dubois/buyer-read/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/buyer-read/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/buyer-read/SKILL.md",
       "files": [
         {
           "path": "skills/chris-dubois/buyer-read/references/persona-and-checks.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/buyer-read/references/persona-and-checks.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/buyer-read/references/persona-and-checks.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/buyer-read/references/scoring-rubric.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/buyer-read/references/scoring-rubric.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/buyer-read/references/scoring-rubric.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/buyer-read/references/worked-example.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/buyer-read/references/worked-example.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/buyer-read/references/worked-example.md",
           "ext": ".md"
         }
       ],
@@ -111,25 +138,61 @@
       "creator": "gary-magnone",
       "contributors": [],
       "path": "skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
       "files": [
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
           "ext": ".md"
         },
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
           "ext": ".md"
         },
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
           "ext": ".md"
         }
       ],
       "wordCount": 857
+    },
+    {
+      "slug": "linkedin-shoutout-post",
+      "title": "LinkedIn shoutout post",
+      "description": "Use this skill when you want to publicly praise a B2B founder or company for something they do well in go-to-market, and break down why it works. Produces a ready-to-paste LinkedIn post, a first comment, and a source list for every claim. Also use for \"shoutout post\", \"shout out [name]\", \"celebrate this founder\", \"who's doing it right\", \"positive breakdown post\".",
+      "category": "Marketing",
+      "tags": [
+        "linkedin",
+        "content",
+        "founder-led-content",
+        "relationship-building",
+        "distribution"
+      ],
+      "tools": [],
+      "creator": "tanyo-gochev",
+      "contributors": [],
+      "path": "skills/tanyo-gochev/linkedin-shoutout-post/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/tanyo-gochev/linkedin-shoutout-post/SKILL.md",
+      "files": [
+        {
+          "path": "skills/tanyo-gochev/linkedin-shoutout-post/references/post-check.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/tanyo-gochev/linkedin-shoutout-post/references/post-check.md",
+          "ext": ".md"
+        },
+        {
+          "path": "skills/tanyo-gochev/linkedin-shoutout-post/references/target-and-research.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/tanyo-gochev/linkedin-shoutout-post/references/target-and-research.md",
+          "ext": ".md"
+        },
+        {
+          "path": "skills/tanyo-gochev/linkedin-shoutout-post/references/worked-examples.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/tanyo-gochev/linkedin-shoutout-post/references/worked-examples.md",
+          "ext": ".md"
+        }
+      ],
+      "wordCount": 694
     },
     {
       "slug": "punch-up",
@@ -147,26 +210,26 @@
       "creator": "chris-dubois",
       "contributors": [],
       "path": "skills/chris-dubois/punch-up/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/punch-up/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/punch-up/SKILL.md",
       "files": [
         {
           "path": "skills/chris-dubois/punch-up/references/bloat-patterns.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/punch-up/references/bloat-patterns.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/punch-up/references/bloat-patterns.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/punch-up/references/calibration-pairs.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/punch-up/references/calibration-pairs.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/punch-up/references/calibration-pairs.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/punch-up/references/hook-toolbox.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/punch-up/references/hook-toolbox.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/punch-up/references/hook-toolbox.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/punch-up/references/rubric.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/4f1658ced2e77a780983cb57f20d2bf1e885436d/skills/chris-dubois/punch-up/references/rubric.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agent-skills/9d5bcce13255968cc190faea49e2a4f2df20e900/skills/chris-dubois/punch-up/references/rubric.md",
           "ext": ".md"
         }
       ],
