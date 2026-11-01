@@ -6,6 +6,7 @@ linkedinUrl: https://www.linkedin.com/in/andrewkappel
 companyDomain: leaderlev.com
 expertise: [sales-strategy, crm, go-to-market, b2b-sales, relationship-building, revenue-operations]
 categories: [Sales, Strategy]
+avatarUrl: https://media.licdn.com/dms/image/v2/D4E03AQG1iJgR3P7omQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1677858960799?e=2147483647&v=beta&t=UCTENGqN0WNCU6zctNv3Zbz5yZxqpVoZVY2EUl5LyaE
 websiteUrl: https://www.leaderlev.com
 ---
 

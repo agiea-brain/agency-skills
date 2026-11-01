@@ -5,6 +5,7 @@ headline: Helping sales leaders build frontline managers who coach, while most A
 linkedinUrl: https://www.linkedin.com/in/pamunro
 companyDomain: appliedgtm.com
 expertise: [sales-coaching, frontline-sales-management, sales-leadership, go-to-market, b2b-saas, founder-led-sales]
+avatarUrl: https://media.licdn.com/dms/image/v2/D5603AQHioq5jg7qJig/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1698933921333?e=2147483647&v=beta&t=qpGMlVo5boMAgFdKfZB0JMCiGOG2zbTxqblBeoacfDc
 categories: [Sales Coaching, Leadership]
 websiteUrl: https://appliedgtm.com
 ---
