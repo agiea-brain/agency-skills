@@ -7,6 +7,7 @@ companyDomain: getgia.ai
 email: bailey@myagiea.com
 expertise: [go-to-market, founder-led-sales, networking, customer-activation, demand-generation, agency-growth]
 categories: [Sales, RevOps, Customer Success]
+avatarUrl: https://media.licdn.com/dms/image/v2/D5603AQG4SE4_caaH4Q/profile-displayphoto-scale_200_200/B56aDDniOIJIAc-/0/1789988319874?e=2147483647&v=beta&t=zm_OR9XR0EZc54cawRK3Lgc1bqZLXgsA0vQfoF8CTjI
 websiteUrl: https://getgia.ai
 ---
 

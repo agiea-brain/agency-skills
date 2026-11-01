@@ -6,7 +6,7 @@ linkedinUrl: https://www.linkedin.com/in/christopherrdubois
 companyDomain: dynamicagencyos.com
 expertise: [agency-positioning, messaging, copywriting, copy-review, buyer-research]
 categories: [Marketing]
-avatarUrl: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-KTYCqjMqTIaVENtMmjPsCAeVQ43jMe_tcMcBlo2_w&s
+avatarUrl: https://dynamicagencyos.com/_astro/da-image.IZ_-y-p3_ZTTjNU.webp?dpl=dpl_EXAD2Aryzpf4JaM1wFfKKUaEsbqD
 websiteUrl: https://dynamicagencyos.com
 ---
 
