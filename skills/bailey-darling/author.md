@@ -4,6 +4,7 @@ title: Co-Founder, Gia
 headline: Building the AI knowledge layer for boutique professional services firms, and running the GTM that sells it.
 linkedinUrl: https://www.linkedin.com/in/baileydarling
 companyDomain: getgia.ai
+email: bailey@myagiea.com
 expertise: [go-to-market, founder-led-sales, networking, customer-activation, demand-generation, agency-growth]
 categories: [Sales, RevOps, Customer Success]
 websiteUrl: https://getgia.ai
