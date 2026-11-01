@@ -38,6 +38,15 @@
     { "slug": "airtable", "name": "Airtable", "aliases": [] },
     { "slug": "stripe", "name": "Stripe", "aliases": [] },
     { "slug": "intercom", "name": "Intercom", "aliases": [] },
-    { "slug": "zendesk", "name": "Zendesk", "aliases": [] }
+    { "slug": "zendesk", "name": "Zendesk", "aliases": [] },
+    { "slug": "figma", "name": "Figma", "aliases": [] },
+    { "slug": "asana", "name": "Asana", "aliases": [] },
+    { "slug": "google-analytics", "name": "Google Analytics", "aliases": ["GA4"] },
+    { "slug": "google-ads", "name": "Google Ads", "aliases": [] },
+    { "slug": "meta-ads", "name": "Meta Ads", "aliases": ["Facebook Ads", "Instagram Ads"] },
+    { "slug": "google-calendar", "name": "Google Calendar", "aliases": [] },
+    { "slug": "klaviyo", "name": "Klaviyo", "aliases": [] },
+    { "slug": "replit", "name": "Replit", "aliases": [] },
+    { "slug": "shopify", "name": "Shopify", "aliases": [] }
   ]
 }
