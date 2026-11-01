@@ -18,7 +18,7 @@ Applies when a target list exists and cold outreach is the only plan. Produces a
 ## The play
 
 1. Build the target list first, 20 to 50 firms, before looking at the network. Starting from the network produces a list of whoever is easiest to reach, which is a different and much worse list.
-2. Inventory the network properly. Not just current contacts: former colleagues, former clients, people from previous companies, vendors, competitors who refer out, people met at events, the people who went quiet two years ago. Where to pull each from, and the fields to keep, are in references/network-inventory.md. Most agency owners have four to five hundred usable relationships and can name forty.
+2. Export the connections list before anything else. Nobody can recall their own network from memory, and the export is the only way to see it whole. Requesting the archive and turning the CSV into the inventory is in references/network-inventory.md, along with the other sources worth pulling: former colleagues, former clients, vendors, peer firms that refer out, and the people who went quiet two years ago. Most agency owners have four to five hundred usable relationships and can name forty.
 3. Match the network against the target list. For each target, who in the inventory can reach someone there, and through how many hops. Stop at two hops; a third-hop introduction is a cold email with extra steps.
 4. Score each path on connection strength, not on seniority. A strong relationship with someone junior beats a weak one with a VP, because the ask only works if the person wants to make it. The strength tiers and what each can be asked for are in references/path-strength.md.
 5. Branch by what the path actually is:
@@ -42,6 +42,7 @@ Applies when a target list exists and cold outreach is the only plan. Produces a
 ## Rules
 
 - MUST build the target list before looking at the network.
+- MUST work from an exported connections list, never from memory.
 - MUST stop at two hops.
 - MUST score on relationship strength, not the connector's seniority.
 - MUST write the ask as a forwardable paragraph the connector can send unedited.
