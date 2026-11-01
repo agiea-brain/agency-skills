@@ -1,0 +1,13 @@
+{
+  "_doc": "Your answers to the setup questions in references/setup.md. Setup fills this in; the skill reads it on every run. setup_complete stays false until the corpus is built and references/test_gate.py passes.",
+  "setup_complete": false,
+  "company": "",
+  "offer": "",
+  "buyer": "",
+  "personas": [],
+  "transcript_sources": [],
+  "patterns": [],
+  "excluded_docs": [],
+  "public_quote_rule": "Quotes are for internal judgment only. Never publish one, and never attribute one to a named person or company.",
+  "last_corpus_build": null
+}

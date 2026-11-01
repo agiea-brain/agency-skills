@@ -1,0 +1,93 @@
+{
+  "_doc": "Seat definitions for the ICP panel. Each seat is a fixed slice of data/corpus.json. Seats are NOT characters; they are scoped query surfaces. Never add a backstory, name, mood, or biography to a seat. Setup replaces {{COMPANY}} with your company name; the filters work as shipped.",
+  "corpus": "data/corpus.json",
+  "excluded_sources": {
+    "your own messaging": "Any positioning doc, message house, website copy or sales script you wrote. Grounding a verdict in it grades your copy against your copy. Never load it into an evidence pack. Setup records the file names in references/profile.json under excluded_docs.",
+    "draft under review": "The copy being judged is never added to the evidence base."
+  },
+  "density_bands": {
+    "sufficient": 12,
+    "thin": 5,
+    "_note": "n >= 12 allows a full verdict. 5-11 allows a verdict that MUST be labeled weak signal. n < 5 forbids a verdict; return no-evidence."
+  },
+  "widening_ladder": [
+    "pattern",
+    "topic",
+    "persona",
+    "stage"
+  ],
+  "_widening_note": "Retrieve at the narrowest requested filter first. If below the sufficient band, drop one dimension at a time in this order and re-retrieve. Never widen past the seat's base_filter; that is the seat's identity. Always report the precision level actually used.",
+  "seats": {
+    "cold_skeptic": {
+      "role": "Judges whether a piece of content lands on someone who has never heard of {{COMPANY}}.",
+      "base_filter": {
+        "source_type_in": ["discovery-call", "sales-call", "interview"],
+        "stance_in": ["problem", "failed-solution"],
+        "stage_in": ["Problem Aware"]
+      },
+      "_interview_note": "Interviews (podcast guests, research calls) are ICP people who are not in a buying conversation, which is exactly this seat's job. Their problem language is legitimate here. It is NOT legitimate in the objector or decider seats.",
+      "may_answer": [
+        "Does this opening land",
+        "Is this the problem they actually have",
+        "Is this framing foreign to them",
+        "What unresolved questions does this reader carry"
+      ],
+      "may_not_answer": [
+        "Anything about buying from {{COMPANY}}",
+        "Pricing reactions",
+        "Post-sale experience"
+      ]
+    },
+    "objector": {
+      "role": "Surfaces what makes a reader stop, bounce, or not reply.",
+      "base_filter": {
+        "source_type_in": ["discovery-call", "sales-call"],
+        "stance_in": ["objection", "failed-solution"]
+      },
+      "may_answer": [
+        "What in this makes them stop reading",
+        "What objection does this raise and not answer",
+        "Where does this overreach"
+      ],
+      "may_not_answer": [
+        "Whether they would ultimately buy",
+        "Conversion rate estimates"
+      ]
+    },
+    "decider": {
+      "role": "Judges close-stage copy: proposals, late sequence emails, the offer or pricing page.",
+      "base_filter": {
+        "source_type_in": ["discovery-call", "sales-call"],
+        "stage_in": ["Most Aware"],
+        "stance_in": ["objection", "decision-trigger"]
+      },
+      "_source_note": "Restricted to buying-context calls. An existing client's late-stage objection is about the next phase of work, not about deciding to buy.",
+      "may_answer": [
+        "Does this resolve the last objection",
+        "Is the ask clear",
+        "What has to be true before they move"
+      ],
+      "may_not_answer": [
+        "Top-of-funnel resonance",
+        "Whether a cold reader understands the category"
+      ]
+    },
+    "client": {
+      "role": "Post-sale reality only. Retention, expansion, what working with {{COMPANY}} feels like.",
+      "base_filter": {
+        "source_type_in": ["client-call"]
+      },
+      "_scope_warning": "These people have already absorbed your framing and mostly discuss the work itself. This seat is near-worthless for judging acquisition copy and must never be used for it.",
+      "may_answer": [
+        "Would an existing client find this useful",
+        "Does this match what working with us actually feels like",
+        "Expansion and retention language"
+      ],
+      "may_not_answer": [
+        "Whether cold copy resonates",
+        "Whether an article lands",
+        "Anything about the buying decision"
+      ]
+    }
+  }
+}

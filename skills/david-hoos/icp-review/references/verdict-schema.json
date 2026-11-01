@@ -1,0 +1,175 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ICP Panel Verdict",
+  "_doc": "Every panel answer must serialize to this shape and pass references/validate_verdict.py. The citation requirement is enforced mechanically: a verdict whose quote_keys do not resolve to real rows in data/corpus.json is rejected by the validator, not merely discouraged by a prompt. NOTE: this gate proves the evidence EXISTS and was RETRIEVED. It does not prove the inference drawn from it is sound. That is what the backtest is for.",
+  "type": "object",
+  "required": [
+    "seat",
+    "question",
+    "corpus_version",
+    "retrieval",
+    "verdict",
+    "strongest_objection"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "seat": {
+      "type": "string",
+      "_doc": "Must be a seat key from references/seats.json; validate_verdict.py checks it."
+    },
+    "question": {
+      "type": "string",
+      "minLength": 1
+    },
+    "corpus_version": {
+      "type": "object",
+      "required": [
+        "generated",
+        "total"
+      ],
+      "properties": {
+        "generated": {
+          "type": "string"
+        },
+        "total": {
+          "type": "integer"
+        }
+      },
+      "_doc": "Copied verbatim from data/corpus.json. Pins the answer to a corpus state so a changed verdict can be traced to a changed corpus."
+    },
+    "retrieval": {
+      "type": "object",
+      "required": [
+        "requested_filter",
+        "precision_level",
+        "n",
+        "density_band"
+      ],
+      "properties": {
+        "requested_filter": {
+          "type": "object"
+        },
+        "precision_level": {
+          "type": "string",
+          "_doc": "Which dimensions survived widening, e.g. 'persona+stage' or 'stage only (persona dropped, n=3)'."
+        },
+        "dropped": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "n": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "density_band": {
+          "enum": [
+            "sufficient",
+            "thin",
+            "insufficient"
+          ]
+        },
+        "source_mix": {
+          "type": "object",
+          "_doc": "Counts by source_type in the evidence pack. Guards against current-client language quietly dominating a pre-sale seat as client calls accumulate."
+        },
+        "age_mix": {
+          "type": "object",
+          "_doc": "Dated vs undated evidence, oldest/newest, median age, share within 12 months, and a STALE flag above a 540-day median. Surfaced, never used to silently discard."
+        }
+      }
+    },
+    "verdict": {
+      "oneOf": [
+        {
+          "type": "null",
+          "_doc": "REQUIRED to be null when density_band is 'insufficient'. The seat has no standing to answer."
+        },
+        {
+          "type": "object",
+          "required": [
+            "answer",
+            "confidence",
+            "citations"
+          ],
+          "properties": {
+            "answer": {
+              "type": "string",
+              "minLength": 1
+            },
+            "confidence": {
+              "enum": [
+                "weak signal",
+                "supported"
+              ]
+            },
+            "citations": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "string",
+                "pattern": "^[a-z-]+:[^#]+(#\\d+)?$"
+              },
+              "_doc": "quote_keys. Must resolve against data/corpus.json AND must have been present in the retrieved evidence pack."
+            }
+          }
+        }
+      ]
+    },
+    "strongest_objection": {
+      "type": "object",
+      "required": [
+        "text",
+        "citations"
+      ],
+      "_doc": "FORCED DISSENT. Mandatory on every verdict, including favourable ones. Asking an LLM 'does this resonate?' has a polite answer; this field has no polite answer. If the evidence genuinely contains no objection, say so explicitly in text and cite the nearest friction quote. Do not leave it empty.",
+      "properties": {
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "citations": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "stopped_reading_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "_doc": "Required for any judgment on a written asset (article, email, page). The exact line or moment this seat would disengage, or null with a stated reason if it would read to the end."
+    },
+    "unresolved_questions": {
+      "type": "array",
+      "_doc": "The navigation use case, scoped honestly. Informational needs this seat carries INTO the page, ranked by evidence density, never a simulated click path. Each item carries its own citations.",
+      "items": {
+        "type": "object",
+        "required": [
+          "question",
+          "citations"
+        ],
+        "properties": {
+          "question": {
+            "type": "string"
+          },
+          "citations": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string"
+            }
+          },
+          "n_supporting": {
+            "type": "integer"
+          }
+        }
+      }
+    }
+  }
+}
