@@ -6,6 +6,7 @@ linkedinUrl: https://www.linkedin.com/in/tapajyotidas
 companyDomain: getgia.ai
 email: td@myagiea.com
 expertise: [company-brain, positioning, knowledge-capture, professional-services, founder-led-sales, agency-growth]
+avatarUrl: https://voltaeffect.com/assets/board/tukan-das.jpeg
 categories: [Sales, Marketing, Strategy]
 websiteUrl: https://getgia.ai
 ---
