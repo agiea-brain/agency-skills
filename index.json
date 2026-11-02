@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T16:03:41.900Z",
-  "commit": "eb00cf53b3f975765c8b3c36564f14a3952e402f",
+  "generatedAt": "2026-11-02T16:04:04.375Z",
+  "commit": "f43e2e8302643c17d28149cf955bec5f3938bda7",
   "repo": "agiea-brain/agency-skills",
   "experts": [
     {
@@ -56,8 +56,11 @@
       "bio": "Bailey Darling co-founded Gia, where boutique professional services firms turn their own playbooks and methodologies into a knowledge system their clients can use directly. He runs the go-to-market side himself, which means the pipeline, the demos, the activation and the weekly numbers all pass through him. Before Gia he worked in demand generation at LeadSift, which is where most of his agency network comes from. His skills encode the parts of a founder-led motion that have to run on a fixed cadence to work at all.",
       "skills": [
         "client-activation-checkin",
+        "client-churn-autopsy",
         "client-win-back",
+        "late-payment-chase",
         "network-path-mapping",
+        "rate-increase-plan",
         "sales-call-debrief",
         "weekly-funnel-review"
       ],
@@ -487,11 +490,11 @@
       "creator": "tony-dowling",
       "contributors": [],
       "path": "skills/tony-dowling/activity-incentive-sprint/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/activity-incentive-sprint/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/activity-incentive-sprint/SKILL.md",
       "files": [
         {
           "path": "skills/tony-dowling/activity-incentive-sprint/references/sprint-brief-template.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/activity-incentive-sprint/references/sprint-brief-template.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/activity-incentive-sprint/references/sprint-brief-template.md",
           "ext": ".md"
         }
       ],
@@ -513,21 +516,21 @@
       "creator": "chris-dubois",
       "contributors": [],
       "path": "skills/chris-dubois/buyer-read/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/chris-dubois/buyer-read/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/chris-dubois/buyer-read/SKILL.md",
       "files": [
         {
           "path": "skills/chris-dubois/buyer-read/references/persona-and-checks.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/chris-dubois/buyer-read/references/persona-and-checks.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/chris-dubois/buyer-read/references/persona-and-checks.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/buyer-read/references/scoring-rubric.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/chris-dubois/buyer-read/references/scoring-rubric.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/chris-dubois/buyer-read/references/scoring-rubric.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/buyer-read/references/worked-example.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/chris-dubois/buyer-read/references/worked-example.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/chris-dubois/buyer-read/references/worked-example.md",
           "ext": ".md"
         }
       ],
@@ -548,21 +551,21 @@
       "creator": "christian-beck",
       "contributors": [],
       "path": "skills/christian-beck/call-topic-mining/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/christian-beck/call-topic-mining/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/christian-beck/call-topic-mining/SKILL.md",
       "files": [
         {
           "path": "skills/christian-beck/call-topic-mining/references/extraction-rules.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/christian-beck/call-topic-mining/references/extraction-rules.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/christian-beck/call-topic-mining/references/extraction-rules.md",
           "ext": ".md"
         },
         {
           "path": "skills/christian-beck/call-topic-mining/references/scoring.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/christian-beck/call-topic-mining/references/scoring.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/christian-beck/call-topic-mining/references/scoring.md",
           "ext": ".md"
         },
         {
           "path": "skills/christian-beck/call-topic-mining/references/topic-to-asset.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/christian-beck/call-topic-mining/references/topic-to-asset.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/christian-beck/call-topic-mining/references/topic-to-asset.md",
           "ext": ".md"
         }
       ],
@@ -586,21 +589,21 @@
       "creator": "tony-dowling",
       "contributors": [],
       "path": "skills/tony-dowling/candidate-interview-coach/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/candidate-interview-coach/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/candidate-interview-coach/SKILL.md",
       "files": [
         {
           "path": "skills/tony-dowling/candidate-interview-coach/references/accountability-agreement.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/candidate-interview-coach/references/accountability-agreement.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/candidate-interview-coach/references/accountability-agreement.md",
           "ext": ".md"
         },
         {
           "path": "skills/tony-dowling/candidate-interview-coach/references/evaluate-scorecard.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/candidate-interview-coach/references/evaluate-scorecard.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/candidate-interview-coach/references/evaluate-scorecard.md",
           "ext": ".md"
         },
         {
           "path": "skills/tony-dowling/candidate-interview-coach/references/prep-mode.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/candidate-interview-coach/references/prep-mode.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/candidate-interview-coach/references/prep-mode.md",
           "ext": ".md"
         }
       ],
@@ -622,7 +625,7 @@
       "creator": "tapajyoti-das",
       "contributors": [],
       "path": "skills/tapajyoti-das/case-study-build/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tapajyoti-das/case-study-build/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tapajyoti-das/case-study-build/SKILL.md",
       "files": [],
       "wordCount": 684
     },
@@ -642,7 +645,7 @@
       "creator": "tapajyoti-das",
       "contributors": [],
       "path": "skills/tapajyoti-das/cash-runway-forecast/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tapajyoti-das/cash-runway-forecast/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tapajyoti-das/cash-runway-forecast/SKILL.md",
       "files": [],
       "wordCount": 636
     },
@@ -664,21 +667,21 @@
       "creator": "christian-beck",
       "contributors": [],
       "path": "skills/christian-beck/ceo-exec-assistant/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/christian-beck/ceo-exec-assistant/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/christian-beck/ceo-exec-assistant/SKILL.md",
       "files": [
         {
           "path": "skills/christian-beck/ceo-exec-assistant/references/brief-format.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/christian-beck/ceo-exec-assistant/references/brief-format.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/christian-beck/ceo-exec-assistant/references/brief-format.md",
           "ext": ".md"
         },
         {
           "path": "skills/christian-beck/ceo-exec-assistant/references/capacity-math.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/christian-beck/ceo-exec-assistant/references/capacity-math.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/christian-beck/ceo-exec-assistant/references/capacity-math.md",
           "ext": ".md"
         },
         {
           "path": "skills/christian-beck/ceo-exec-assistant/references/triage-rules.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/christian-beck/ceo-exec-assistant/references/triage-rules.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/christian-beck/ceo-exec-assistant/references/triage-rules.md",
           "ext": ".md"
         }
       ],
@@ -700,25 +703,45 @@
       "creator": "bailey-darling",
       "contributors": [],
       "path": "skills/bailey-darling/client-activation-checkin/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/client-activation-checkin/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/client-activation-checkin/SKILL.md",
       "files": [
         {
           "path": "skills/bailey-darling/client-activation-checkin/references/activation-stages.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/client-activation-checkin/references/activation-stages.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/client-activation-checkin/references/activation-stages.md",
           "ext": ".md"
         },
         {
           "path": "skills/bailey-darling/client-activation-checkin/references/prep-card.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/client-activation-checkin/references/prep-card.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/client-activation-checkin/references/prep-card.md",
           "ext": ".md"
         },
         {
           "path": "skills/bailey-darling/client-activation-checkin/references/stalled-engagements.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/client-activation-checkin/references/stalled-engagements.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/client-activation-checkin/references/stalled-engagements.md",
           "ext": ".md"
         }
       ],
       "wordCount": 681
+    },
+    {
+      "slug": "client-churn-autopsy",
+      "title": "Client churn autopsy",
+      "description": "Use this skill in the week after a client leaves, while the record is still readable and before the story settles into whatever is least uncomfortable. Produces the real cause separated from the stated one, the point the engagement actually turned, what would have caught it, and whether this one is winnable back. Also use for \"they churned\", \"why did we lose them\", \"post-mortem on the account\", \"can we get them back\".",
+      "category": "Customer Success",
+      "tags": [
+        "churn",
+        "post-mortem",
+        "retention",
+        "client-loss",
+        "win-back"
+      ],
+      "tools": [],
+      "creator": "bailey-darling",
+      "contributors": [],
+      "path": "skills/bailey-darling/client-churn-autopsy/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/client-churn-autopsy/SKILL.md",
+      "files": [],
+      "wordCount": 652
     },
     {
       "slug": "client-list-stack-pitch",
@@ -740,11 +763,11 @@
       "creator": "tony-dowling",
       "contributors": [],
       "path": "skills/tony-dowling/client-list-stack-pitch/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/client-list-stack-pitch/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/client-list-stack-pitch/SKILL.md",
       "files": [
         {
           "path": "skills/tony-dowling/client-list-stack-pitch/references/list-health-rules.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/client-list-stack-pitch/references/list-health-rules.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/client-list-stack-pitch/references/list-health-rules.md",
           "ext": ".md"
         }
       ],
@@ -766,7 +789,7 @@
       "creator": "tapajyoti-das",
       "contributors": [],
       "path": "skills/tapajyoti-das/client-profitability-read/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tapajyoti-das/client-profitability-read/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tapajyoti-das/client-profitability-read/SKILL.md",
       "files": [],
       "wordCount": 612
     },
@@ -786,7 +809,7 @@
       "creator": "tapajyoti-das",
       "contributors": [],
       "path": "skills/tapajyoti-das/client-proposal/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tapajyoti-das/client-proposal/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tapajyoti-das/client-proposal/SKILL.md",
       "files": [],
       "wordCount": 648
     },
@@ -806,21 +829,21 @@
       "creator": "bailey-darling",
       "contributors": [],
       "path": "skills/bailey-darling/client-win-back/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/client-win-back/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/client-win-back/SKILL.md",
       "files": [
         {
           "path": "skills/bailey-darling/client-win-back/references/sorting-the-list.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/client-win-back/references/sorting-the-list.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/client-win-back/references/sorting-the-list.md",
           "ext": ".md"
         },
         {
           "path": "skills/bailey-darling/client-win-back/references/the-message.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/client-win-back/references/the-message.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/client-win-back/references/the-message.md",
           "ext": ".md"
         },
         {
           "path": "skills/bailey-darling/client-win-back/references/what-changed.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/client-win-back/references/what-changed.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/client-win-back/references/what-changed.md",
           "ext": ".md"
         }
       ],
@@ -845,11 +868,11 @@
       "creator": "tony-dowling",
       "contributors": [],
       "path": "skills/tony-dowling/commercial-kpi-scoreboard/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/commercial-kpi-scoreboard/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/commercial-kpi-scoreboard/SKILL.md",
       "files": [
         {
           "path": "skills/tony-dowling/commercial-kpi-scoreboard/references/kpi-definitions.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/commercial-kpi-scoreboard/references/kpi-definitions.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/commercial-kpi-scoreboard/references/kpi-definitions.md",
           "ext": ".md"
         }
       ],
@@ -876,16 +899,16 @@
       "creator": "tony-dowling",
       "contributors": [],
       "path": "skills/tony-dowling/commercial-telemetry-coach/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/commercial-telemetry-coach/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/commercial-telemetry-coach/SKILL.md",
       "files": [
         {
           "path": "skills/tony-dowling/commercial-telemetry-coach/references/coverage-check.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/commercial-telemetry-coach/references/coverage-check.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/commercial-telemetry-coach/references/coverage-check.md",
           "ext": ".md"
         },
         {
           "path": "skills/tony-dowling/commercial-telemetry-coach/references/workbook-tabs.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/commercial-telemetry-coach/references/workbook-tabs.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/commercial-telemetry-coach/references/workbook-tabs.md",
           "ext": ".md"
         }
       ],
@@ -907,7 +930,7 @@
       "creator": "tapajyoti-das",
       "contributors": [],
       "path": "skills/tapajyoti-das/content-brief/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tapajyoti-das/content-brief/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tapajyoti-das/content-brief/SKILL.md",
       "files": [],
       "wordCount": 638
     },
@@ -929,21 +952,21 @@
       "creator": "gary-magnone",
       "contributors": [],
       "path": "skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/gary-magnone/delivery-audit-discovery-call/SKILL.md",
       "files": [
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/gary-magnone/delivery-audit-discovery-call/references/call-script.md",
           "ext": ".md"
         },
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/gary-magnone/delivery-audit-discovery-call/references/pain-math.md",
           "ext": ".md"
         },
         {
           "path": "skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/gary-magnone/delivery-audit-discovery-call/references/pricing-frame.md",
           "ext": ".md"
         }
       ],
@@ -965,11 +988,11 @@
       "creator": "hunter-harris",
       "contributors": [],
       "path": "skills/hunter-harris/demandbird-exact-time-linkedin-post/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/hunter-harris/demandbird-exact-time-linkedin-post/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/hunter-harris/demandbird-exact-time-linkedin-post/SKILL.md",
       "files": [
         {
           "path": "skills/hunter-harris/demandbird-exact-time-linkedin-post/references/demandbird-quirks.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/hunter-harris/demandbird-exact-time-linkedin-post/references/demandbird-quirks.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/hunter-harris/demandbird-exact-time-linkedin-post/references/demandbird-quirks.md",
           "ext": ".md"
         }
       ],
@@ -985,7 +1008,7 @@
       "creator": "gary-magnone",
       "contributors": [],
       "path": "skills/gary-magnone/direction/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/gary-magnone/direction/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/gary-magnone/direction/SKILL.md",
       "files": [],
       "wordCount": 1429
     },
@@ -1008,11 +1031,11 @@
       "creator": "tony-dowling",
       "contributors": [],
       "path": "skills/tony-dowling/friday-reality-review/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/friday-reality-review/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/friday-reality-review/SKILL.md",
       "files": [
         {
           "path": "skills/tony-dowling/friday-reality-review/references/scoreboard-and-questions.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/friday-reality-review/references/scoreboard-and-questions.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/friday-reality-review/references/scoreboard-and-questions.md",
           "ext": ".md"
         }
       ],
@@ -1035,56 +1058,56 @@
       "creator": "david-hoos",
       "contributors": [],
       "path": "skills/david-hoos/icp-review/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/david-hoos/icp-review/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/david-hoos/icp-review/SKILL.md",
       "files": [
         {
           "path": "skills/david-hoos/icp-review/references/build_corpus.py",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/david-hoos/icp-review/references/build_corpus.py",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/david-hoos/icp-review/references/build_corpus.py",
           "ext": ".py"
         },
         {
           "path": "skills/david-hoos/icp-review/references/panel.py",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/david-hoos/icp-review/references/panel.py",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/david-hoos/icp-review/references/panel.py",
           "ext": ".py"
         },
         {
           "path": "skills/david-hoos/icp-review/references/profile.json",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/david-hoos/icp-review/references/profile.json",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/david-hoos/icp-review/references/profile.json",
           "ext": ".json"
         },
         {
           "path": "skills/david-hoos/icp-review/references/routing-and-seats.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/david-hoos/icp-review/references/routing-and-seats.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/david-hoos/icp-review/references/routing-and-seats.md",
           "ext": ".md"
         },
         {
           "path": "skills/david-hoos/icp-review/references/score.py",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/david-hoos/icp-review/references/score.py",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/david-hoos/icp-review/references/score.py",
           "ext": ".py"
         },
         {
           "path": "skills/david-hoos/icp-review/references/seats.json",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/david-hoos/icp-review/references/seats.json",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/david-hoos/icp-review/references/seats.json",
           "ext": ".json"
         },
         {
           "path": "skills/david-hoos/icp-review/references/setup.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/david-hoos/icp-review/references/setup.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/david-hoos/icp-review/references/setup.md",
           "ext": ".md"
         },
         {
           "path": "skills/david-hoos/icp-review/references/test_gate.py",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/david-hoos/icp-review/references/test_gate.py",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/david-hoos/icp-review/references/test_gate.py",
           "ext": ".py"
         },
         {
           "path": "skills/david-hoos/icp-review/references/validate_verdict.py",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/david-hoos/icp-review/references/validate_verdict.py",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/david-hoos/icp-review/references/validate_verdict.py",
           "ext": ".py"
         },
         {
           "path": "skills/david-hoos/icp-review/references/verdict-schema.json",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/david-hoos/icp-review/references/verdict-schema.json",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/david-hoos/icp-review/references/verdict-schema.json",
           "ext": ".json"
         }
       ],
@@ -1110,21 +1133,21 @@
       "creator": "kayla-bonnette",
       "contributors": [],
       "path": "skills/kayla-bonnette/klaviyo-account-audit/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/kayla-bonnette/klaviyo-account-audit/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/kayla-bonnette/klaviyo-account-audit/SKILL.md",
       "files": [
         {
           "path": "skills/kayla-bonnette/klaviyo-account-audit/references/audit-checklist.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/kayla-bonnette/klaviyo-account-audit/references/audit-checklist.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/kayla-bonnette/klaviyo-account-audit/references/audit-checklist.md",
           "ext": ".md"
         },
         {
           "path": "skills/kayla-bonnette/klaviyo-account-audit/references/replit-deck-prompt.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/kayla-bonnette/klaviyo-account-audit/references/replit-deck-prompt.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/kayla-bonnette/klaviyo-account-audit/references/replit-deck-prompt.md",
           "ext": ".md"
         },
         {
           "path": "skills/kayla-bonnette/klaviyo-account-audit/references/revenue-sizing.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/kayla-bonnette/klaviyo-account-audit/references/revenue-sizing.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/kayla-bonnette/klaviyo-account-audit/references/revenue-sizing.md",
           "ext": ".md"
         }
       ],
@@ -1147,15 +1170,35 @@
       "creator": "hunter-harris",
       "contributors": [],
       "path": "skills/hunter-harris/kondo-owed-reply-sweep/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/hunter-harris/kondo-owed-reply-sweep/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/hunter-harris/kondo-owed-reply-sweep/SKILL.md",
       "files": [
         {
           "path": "skills/hunter-harris/kondo-owed-reply-sweep/references/sweep-gotchas.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/hunter-harris/kondo-owed-reply-sweep/references/sweep-gotchas.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/hunter-harris/kondo-owed-reply-sweep/references/sweep-gotchas.md",
           "ext": ".md"
         }
       ],
       "wordCount": 483
+    },
+    {
+      "slug": "late-payment-chase",
+      "title": "Late payment chase",
+      "description": "Use this skill when invoices are sitting unpaid and nobody has decided who chases them or how. Produces the aged list, who to chase in what order, the message for each stage from a nudge to a stop-work notice, and the point where it stops being an admin problem. Also use for \"they haven't paid\", \"chase the invoice\", \"AR is a mess\", \"how do I ask for money without wrecking the relationship\".",
+      "category": "Finance",
+      "tags": [
+        "accounts-receivable",
+        "cash-collection",
+        "invoices",
+        "client-conversations",
+        "dunning"
+      ],
+      "tools": [],
+      "creator": "bailey-darling",
+      "contributors": [],
+      "path": "skills/bailey-darling/late-payment-chase/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/late-payment-chase/SKILL.md",
+      "files": [],
+      "wordCount": 674
     },
     {
       "slug": "linkedin-export-contact-import",
@@ -1174,11 +1217,11 @@
       "creator": "hunter-harris",
       "contributors": [],
       "path": "skills/hunter-harris/linkedin-export-contact-import/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/hunter-harris/linkedin-export-contact-import/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/hunter-harris/linkedin-export-contact-import/SKILL.md",
       "files": [
         {
           "path": "skills/hunter-harris/linkedin-export-contact-import/references/export-file-notes.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/hunter-harris/linkedin-export-contact-import/references/export-file-notes.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/hunter-harris/linkedin-export-contact-import/references/export-file-notes.md",
           "ext": ".md"
         }
       ],
@@ -1200,21 +1243,21 @@
       "creator": "tanyo-gochev",
       "contributors": [],
       "path": "skills/tanyo-gochev/linkedin-shoutout-post/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tanyo-gochev/linkedin-shoutout-post/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tanyo-gochev/linkedin-shoutout-post/SKILL.md",
       "files": [
         {
           "path": "skills/tanyo-gochev/linkedin-shoutout-post/references/post-check.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tanyo-gochev/linkedin-shoutout-post/references/post-check.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tanyo-gochev/linkedin-shoutout-post/references/post-check.md",
           "ext": ".md"
         },
         {
           "path": "skills/tanyo-gochev/linkedin-shoutout-post/references/target-and-research.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tanyo-gochev/linkedin-shoutout-post/references/target-and-research.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tanyo-gochev/linkedin-shoutout-post/references/target-and-research.md",
           "ext": ".md"
         },
         {
           "path": "skills/tanyo-gochev/linkedin-shoutout-post/references/worked-examples.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tanyo-gochev/linkedin-shoutout-post/references/worked-examples.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tanyo-gochev/linkedin-shoutout-post/references/worked-examples.md",
           "ext": ".md"
         }
       ],
@@ -1237,11 +1280,11 @@
       "creator": "hunter-harris",
       "contributors": [],
       "path": "skills/hunter-harris/mail-messages-contact-touches/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/hunter-harris/mail-messages-contact-touches/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/hunter-harris/mail-messages-contact-touches/SKILL.md",
       "files": [
         {
           "path": "skills/hunter-harris/mail-messages-contact-touches/references/apple-data-traps.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/hunter-harris/mail-messages-contact-touches/references/apple-data-traps.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/hunter-harris/mail-messages-contact-touches/references/apple-data-traps.md",
           "ext": ".md"
         }
       ],
@@ -1263,26 +1306,26 @@
       "creator": "andrew-kappel",
       "contributors": [],
       "path": "skills/andrew-kappel/morning-paper-outreach/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/andrew-kappel/morning-paper-outreach/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/andrew-kappel/morning-paper-outreach/SKILL.md",
       "files": [
         {
           "path": "skills/andrew-kappel/morning-paper-outreach/references/feedback-loop.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/andrew-kappel/morning-paper-outreach/references/feedback-loop.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/andrew-kappel/morning-paper-outreach/references/feedback-loop.md",
           "ext": ".md"
         },
         {
           "path": "skills/andrew-kappel/morning-paper-outreach/references/matching-rules.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/andrew-kappel/morning-paper-outreach/references/matching-rules.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/andrew-kappel/morning-paper-outreach/references/matching-rules.md",
           "ext": ".md"
         },
         {
           "path": "skills/andrew-kappel/morning-paper-outreach/references/note-patterns.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/andrew-kappel/morning-paper-outreach/references/note-patterns.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/andrew-kappel/morning-paper-outreach/references/note-patterns.md",
           "ext": ".md"
         },
         {
           "path": "skills/andrew-kappel/morning-paper-outreach/references/people-file.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/andrew-kappel/morning-paper-outreach/references/people-file.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/andrew-kappel/morning-paper-outreach/references/people-file.md",
           "ext": ".md"
         }
       ],
@@ -1304,21 +1347,21 @@
       "creator": "bailey-darling",
       "contributors": [],
       "path": "skills/bailey-darling/network-path-mapping/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/network-path-mapping/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/network-path-mapping/SKILL.md",
       "files": [
         {
           "path": "skills/bailey-darling/network-path-mapping/references/network-inventory.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/network-path-mapping/references/network-inventory.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/network-path-mapping/references/network-inventory.md",
           "ext": ".md"
         },
         {
           "path": "skills/bailey-darling/network-path-mapping/references/path-strength.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/network-path-mapping/references/path-strength.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/network-path-mapping/references/path-strength.md",
           "ext": ".md"
         },
         {
           "path": "skills/bailey-darling/network-path-mapping/references/the-ask.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/network-path-mapping/references/the-ask.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/network-path-mapping/references/the-ask.md",
           "ext": ".md"
         }
       ],
@@ -1341,11 +1384,11 @@
       "creator": "tony-dowling",
       "contributors": [],
       "path": "skills/tony-dowling/objection-comeback-coach/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/objection-comeback-coach/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/objection-comeback-coach/SKILL.md",
       "files": [
         {
           "path": "skills/tony-dowling/objection-comeback-coach/references/comeback-framework.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/objection-comeback-coach/references/comeback-framework.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/objection-comeback-coach/references/comeback-framework.md",
           "ext": ".md"
         }
       ],
@@ -1368,16 +1411,16 @@
       "creator": "christian-beck",
       "contributors": [],
       "path": "skills/christian-beck/og-image-from-template/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/christian-beck/og-image-from-template/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/christian-beck/og-image-from-template/SKILL.md",
       "files": [
         {
           "path": "skills/christian-beck/og-image-from-template/references/export-settings.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/christian-beck/og-image-from-template/references/export-settings.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/christian-beck/og-image-from-template/references/export-settings.md",
           "ext": ".md"
         },
         {
           "path": "skills/christian-beck/og-image-from-template/references/template-contract.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/christian-beck/og-image-from-template/references/template-contract.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/christian-beck/og-image-from-template/references/template-contract.md",
           "ext": ".md"
         }
       ],
@@ -1400,21 +1443,21 @@
       "creator": "paul-munro",
       "contributors": [],
       "path": "skills/paul-munro/pipeline-by-script/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/paul-munro/pipeline-by-script/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/paul-munro/pipeline-by-script/SKILL.md",
       "files": [
         {
           "path": "skills/paul-munro/pipeline-by-script/references/drift-check.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/paul-munro/pipeline-by-script/references/drift-check.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/paul-munro/pipeline-by-script/references/drift-check.md",
           "ext": ".md"
         },
         {
           "path": "skills/paul-munro/pipeline-by-script/references/file-layout.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/paul-munro/pipeline-by-script/references/file-layout.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/paul-munro/pipeline-by-script/references/file-layout.md",
           "ext": ".md"
         },
         {
           "path": "skills/paul-munro/pipeline-by-script/references/one-command.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/paul-munro/pipeline-by-script/references/one-command.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/paul-munro/pipeline-by-script/references/one-command.md",
           "ext": ".md"
         }
       ],
@@ -1436,16 +1479,16 @@
       "creator": "tanyo-gochev",
       "contributors": [],
       "path": "skills/tanyo-gochev/plain-language-copy-check/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tanyo-gochev/plain-language-copy-check/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tanyo-gochev/plain-language-copy-check/SKILL.md",
       "files": [
         {
           "path": "skills/tanyo-gochev/plain-language-copy-check/references/check-sheet.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tanyo-gochev/plain-language-copy-check/references/check-sheet.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tanyo-gochev/plain-language-copy-check/references/check-sheet.md",
           "ext": ".md"
         },
         {
           "path": "skills/tanyo-gochev/plain-language-copy-check/references/word-swaps.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tanyo-gochev/plain-language-copy-check/references/word-swaps.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tanyo-gochev/plain-language-copy-check/references/word-swaps.md",
           "ext": ".md"
         }
       ],
@@ -1466,21 +1509,21 @@
       "creator": "paul-munro",
       "contributors": [],
       "path": "skills/paul-munro/pre-session-flash-card/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/paul-munro/pre-session-flash-card/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/paul-munro/pre-session-flash-card/SKILL.md",
       "files": [
         {
           "path": "skills/paul-munro/pre-session-flash-card/references/card-sections.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/paul-munro/pre-session-flash-card/references/card-sections.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/paul-munro/pre-session-flash-card/references/card-sections.md",
           "ext": ".md"
         },
         {
           "path": "skills/paul-munro/pre-session-flash-card/references/line-rules.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/paul-munro/pre-session-flash-card/references/line-rules.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/paul-munro/pre-session-flash-card/references/line-rules.md",
           "ext": ".md"
         },
         {
           "path": "skills/paul-munro/pre-session-flash-card/references/plain-language.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/paul-munro/pre-session-flash-card/references/plain-language.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/paul-munro/pre-session-flash-card/references/plain-language.md",
           "ext": ".md"
         }
       ],
@@ -1505,11 +1548,11 @@
       "creator": "tony-dowling",
       "contributors": [],
       "path": "skills/tony-dowling/price-defense-trade/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/price-defense-trade/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/price-defense-trade/SKILL.md",
       "files": [
         {
           "path": "skills/tony-dowling/price-defense-trade/references/trading-matrix.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/price-defense-trade/references/trading-matrix.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/price-defense-trade/references/trading-matrix.md",
           "ext": ".md"
         }
       ],
@@ -1531,7 +1574,7 @@
       "creator": "purvesh-rathod",
       "contributors": [],
       "path": "skills/purvesh-rathod/process-capture/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/purvesh-rathod/process-capture/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/purvesh-rathod/process-capture/SKILL.md",
       "files": [],
       "wordCount": 628
     },
@@ -1551,26 +1594,26 @@
       "creator": "chris-dubois",
       "contributors": [],
       "path": "skills/chris-dubois/punch-up/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/chris-dubois/punch-up/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/chris-dubois/punch-up/SKILL.md",
       "files": [
         {
           "path": "skills/chris-dubois/punch-up/references/bloat-patterns.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/chris-dubois/punch-up/references/bloat-patterns.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/chris-dubois/punch-up/references/bloat-patterns.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/punch-up/references/calibration-pairs.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/chris-dubois/punch-up/references/calibration-pairs.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/chris-dubois/punch-up/references/calibration-pairs.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/punch-up/references/hook-toolbox.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/chris-dubois/punch-up/references/hook-toolbox.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/chris-dubois/punch-up/references/hook-toolbox.md",
           "ext": ".md"
         },
         {
           "path": "skills/chris-dubois/punch-up/references/rubric.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/chris-dubois/punch-up/references/rubric.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/chris-dubois/punch-up/references/rubric.md",
           "ext": ".md"
         }
       ],
@@ -1592,9 +1635,29 @@
       "creator": "tapajyoti-das",
       "contributors": [],
       "path": "skills/tapajyoti-das/quarter-goal-filter/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tapajyoti-das/quarter-goal-filter/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tapajyoti-das/quarter-goal-filter/SKILL.md",
       "files": [],
       "wordCount": 641
+    },
+    {
+      "slug": "rate-increase-plan",
+      "title": "Rate increase plan",
+      "description": "Use this skill when rates have not moved in a year or more and the firm is carrying clients at numbers it would never quote today. Produces who moves and who does not, what each one goes to, who gets grandfathered and why, the order to tell them in, and the message for each. Also use for \"we need to raise rates\", \"put our prices up\", \"this client is underpriced\", \"how do I tell them the retainer is going up\".",
+      "category": "Finance",
+      "tags": [
+        "pricing",
+        "rate-increase",
+        "retainers",
+        "grandfathering",
+        "client-conversations"
+      ],
+      "tools": [],
+      "creator": "bailey-darling",
+      "contributors": [],
+      "path": "skills/bailey-darling/rate-increase-plan/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/rate-increase-plan/SKILL.md",
+      "files": [],
+      "wordCount": 628
     },
     {
       "slug": "revenue-goal-funnel-math",
@@ -1613,21 +1676,21 @@
       "creator": "tanyo-gochev",
       "contributors": [],
       "path": "skills/tanyo-gochev/revenue-goal-funnel-math/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tanyo-gochev/revenue-goal-funnel-math/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tanyo-gochev/revenue-goal-funnel-math/SKILL.md",
       "files": [
         {
           "path": "skills/tanyo-gochev/revenue-goal-funnel-math/references/funnel-chain.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tanyo-gochev/revenue-goal-funnel-math/references/funnel-chain.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tanyo-gochev/revenue-goal-funnel-math/references/funnel-chain.md",
           "ext": ".md"
         },
         {
           "path": "skills/tanyo-gochev/revenue-goal-funnel-math/references/thresholds.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tanyo-gochev/revenue-goal-funnel-math/references/thresholds.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tanyo-gochev/revenue-goal-funnel-math/references/thresholds.md",
           "ext": ".md"
         },
         {
           "path": "skills/tanyo-gochev/revenue-goal-funnel-math/references/worked-examples.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tanyo-gochev/revenue-goal-funnel-math/references/worked-examples.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tanyo-gochev/revenue-goal-funnel-math/references/worked-examples.md",
           "ext": ".md"
         }
       ],
@@ -1653,11 +1716,11 @@
       "creator": "hunter-harris",
       "contributors": [],
       "path": "skills/hunter-harris/riverside-short-social-schedule/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/hunter-harris/riverside-short-social-schedule/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/hunter-harris/riverside-short-social-schedule/SKILL.md",
       "files": [
         {
           "path": "skills/hunter-harris/riverside-short-social-schedule/references/expected-state-matrix.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/hunter-harris/riverside-short-social-schedule/references/expected-state-matrix.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/hunter-harris/riverside-short-social-schedule/references/expected-state-matrix.md",
           "ext": ".md"
         }
       ],
@@ -1673,7 +1736,7 @@
       "creator": "gary-magnone",
       "contributors": [],
       "path": "skills/gary-magnone/rundown/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/gary-magnone/rundown/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/gary-magnone/rundown/SKILL.md",
       "files": [],
       "wordCount": 1452
     },
@@ -1693,21 +1756,21 @@
       "creator": "bailey-darling",
       "contributors": [],
       "path": "skills/bailey-darling/sales-call-debrief/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/sales-call-debrief/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/sales-call-debrief/SKILL.md",
       "files": [
         {
           "path": "skills/bailey-darling/sales-call-debrief/references/capture-first.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/sales-call-debrief/references/capture-first.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/sales-call-debrief/references/capture-first.md",
           "ext": ".md"
         },
         {
           "path": "skills/bailey-darling/sales-call-debrief/references/qualification.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/sales-call-debrief/references/qualification.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/sales-call-debrief/references/qualification.md",
           "ext": ".md"
         },
         {
           "path": "skills/bailey-darling/sales-call-debrief/references/the-follow-up.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/sales-call-debrief/references/the-follow-up.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/sales-call-debrief/references/the-follow-up.md",
           "ext": ".md"
         }
       ],
@@ -1729,11 +1792,11 @@
       "creator": "rob-kaminski",
       "contributors": [],
       "path": "skills/rob-kaminski/sales-call-market-analyzer/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/rob-kaminski/sales-call-market-analyzer/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/rob-kaminski/sales-call-market-analyzer/SKILL.md",
       "files": [
         {
           "path": "skills/rob-kaminski/sales-call-market-analyzer/references/jtbd-clustering.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/rob-kaminski/sales-call-market-analyzer/references/jtbd-clustering.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/rob-kaminski/sales-call-market-analyzer/references/jtbd-clustering.md",
           "ext": ".md"
         }
       ],
@@ -1749,7 +1812,7 @@
       "creator": "gary-magnone",
       "contributors": [],
       "path": "skills/gary-magnone/source-check/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/gary-magnone/source-check/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/gary-magnone/source-check/SKILL.md",
       "files": [],
       "wordCount": 1192
     },
@@ -1772,11 +1835,11 @@
       "creator": "tony-dowling",
       "contributors": [],
       "path": "skills/tony-dowling/target-plan-coverage/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/target-plan-coverage/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/target-plan-coverage/SKILL.md",
       "files": [
         {
           "path": "skills/tony-dowling/target-plan-coverage/references/coverage-math.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/target-plan-coverage/references/coverage-math.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/target-plan-coverage/references/coverage-math.md",
           "ext": ".md"
         }
       ],
@@ -1801,11 +1864,11 @@
       "creator": "tony-dowling",
       "contributors": [],
       "path": "skills/tony-dowling/targeting-strategy-ideas/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/targeting-strategy-ideas/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/targeting-strategy-ideas/SKILL.md",
       "files": [
         {
           "path": "skills/tony-dowling/targeting-strategy-ideas/references/idea-template.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tony-dowling/targeting-strategy-ideas/references/idea-template.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tony-dowling/targeting-strategy-ideas/references/idea-template.md",
           "ext": ".md"
         }
       ],
@@ -1827,21 +1890,21 @@
       "creator": "jay-dingwall",
       "contributors": [],
       "path": "skills/jay-dingwall/upsell-opportunity-brief/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/jay-dingwall/upsell-opportunity-brief/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/jay-dingwall/upsell-opportunity-brief/SKILL.md",
       "files": [
         {
           "path": "skills/jay-dingwall/upsell-opportunity-brief/references/brief-format.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/jay-dingwall/upsell-opportunity-brief/references/brief-format.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/jay-dingwall/upsell-opportunity-brief/references/brief-format.md",
           "ext": ".md"
         },
         {
           "path": "skills/jay-dingwall/upsell-opportunity-brief/references/qualifying-gates.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/jay-dingwall/upsell-opportunity-brief/references/qualifying-gates.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/jay-dingwall/upsell-opportunity-brief/references/qualifying-gates.md",
           "ext": ".md"
         },
         {
           "path": "skills/jay-dingwall/upsell-opportunity-brief/references/signal-sources.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/jay-dingwall/upsell-opportunity-brief/references/signal-sources.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/jay-dingwall/upsell-opportunity-brief/references/signal-sources.md",
           "ext": ".md"
         }
       ],
@@ -1863,21 +1926,21 @@
       "creator": "garrett-jestice",
       "contributors": [],
       "path": "skills/garrett-jestice/weekly-content-ideas-from-calls/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/garrett-jestice/weekly-content-ideas-from-calls/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/garrett-jestice/weekly-content-ideas-from-calls/SKILL.md",
       "files": [
         {
           "path": "skills/garrett-jestice/weekly-content-ideas-from-calls/references/moment-types.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/garrett-jestice/weekly-content-ideas-from-calls/references/moment-types.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/garrett-jestice/weekly-content-ideas-from-calls/references/moment-types.md",
           "ext": ".md"
         },
         {
           "path": "skills/garrett-jestice/weekly-content-ideas-from-calls/references/ranking-model.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/garrett-jestice/weekly-content-ideas-from-calls/references/ranking-model.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/garrett-jestice/weekly-content-ideas-from-calls/references/ranking-model.md",
           "ext": ".md"
         },
         {
           "path": "skills/garrett-jestice/weekly-content-ideas-from-calls/references/voice-questions.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/garrett-jestice/weekly-content-ideas-from-calls/references/voice-questions.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/garrett-jestice/weekly-content-ideas-from-calls/references/voice-questions.md",
           "ext": ".md"
         }
       ],
@@ -1899,21 +1962,21 @@
       "creator": "bailey-darling",
       "contributors": [],
       "path": "skills/bailey-darling/weekly-funnel-review/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/weekly-funnel-review/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/weekly-funnel-review/SKILL.md",
       "files": [
         {
           "path": "skills/bailey-darling/weekly-funnel-review/references/definitions.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/weekly-funnel-review/references/definitions.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/weekly-funnel-review/references/definitions.md",
           "ext": ".md"
         },
         {
           "path": "skills/bailey-darling/weekly-funnel-review/references/reading-a-week.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/weekly-funnel-review/references/reading-a-week.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/weekly-funnel-review/references/reading-a-week.md",
           "ext": ".md"
         },
         {
           "path": "skills/bailey-darling/weekly-funnel-review/references/the-history.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/bailey-darling/weekly-funnel-review/references/the-history.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/bailey-darling/weekly-funnel-review/references/the-history.md",
           "ext": ".md"
         }
       ],
@@ -1939,21 +2002,21 @@
       "creator": "christian-beck",
       "contributors": [],
       "path": "skills/christian-beck/weekly-site-and-ad-report/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/christian-beck/weekly-site-and-ad-report/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/christian-beck/weekly-site-and-ad-report/SKILL.md",
       "files": [
         {
           "path": "skills/christian-beck/weekly-site-and-ad-report/references/metrics.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/christian-beck/weekly-site-and-ad-report/references/metrics.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/christian-beck/weekly-site-and-ad-report/references/metrics.md",
           "ext": ".md"
         },
         {
           "path": "skills/christian-beck/weekly-site-and-ad-report/references/report-format.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/christian-beck/weekly-site-and-ad-report/references/report-format.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/christian-beck/weekly-site-and-ad-report/references/report-format.md",
           "ext": ".md"
         },
         {
           "path": "skills/christian-beck/weekly-site-and-ad-report/references/thresholds.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/christian-beck/weekly-site-and-ad-report/references/thresholds.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/christian-beck/weekly-site-and-ad-report/references/thresholds.md",
           "ext": ".md"
         }
       ],
@@ -1975,7 +2038,7 @@
       "creator": "tapajyoti-das",
       "contributors": [],
       "path": "skills/tapajyoti-das/win-to-angles/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/tapajyoti-das/win-to-angles/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/tapajyoti-das/win-to-angles/SKILL.md",
       "files": [],
       "wordCount": 646
     },
@@ -1989,7 +2052,7 @@
       "creator": "gary-magnone",
       "contributors": [],
       "path": "skills/gary-magnone/work-review/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/gary-magnone/work-review/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/gary-magnone/work-review/SKILL.md",
       "files": [],
       "wordCount": 1455
     },
@@ -2010,11 +2073,11 @@
       "creator": "hunter-harris",
       "contributors": [],
       "path": "skills/hunter-harris/youtube-transcript-panel-pull/SKILL.md",
-      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/hunter-harris/youtube-transcript-panel-pull/SKILL.md",
+      "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/hunter-harris/youtube-transcript-panel-pull/SKILL.md",
       "files": [
         {
           "path": "skills/hunter-harris/youtube-transcript-panel-pull/references/browser-snippets.md",
-          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/eb00cf53b3f975765c8b3c36564f14a3952e402f/skills/hunter-harris/youtube-transcript-panel-pull/references/browser-snippets.md",
+          "rawUrl": "https://raw.githubusercontent.com/agiea-brain/agency-skills/f43e2e8302643c17d28149cf955bec5f3938bda7/skills/hunter-harris/youtube-transcript-panel-pull/references/browser-snippets.md",
           "ext": ".md"
         }
       ],
