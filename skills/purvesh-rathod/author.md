@@ -6,6 +6,7 @@ linkedinUrl: https://www.linkedin.com/in/purveshrathod
 companyDomain: getgia.ai
 email: purvesh@myagiea.com
 expertise: [ai-engineering, agent-workflows, knowledge-systems, mcp, product-engineering]
+avatarUrl: https://media.licdn.com/dms/image/v2/D4E03AQFWhZA2rtem3A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731849221003?e=2147483647&v=beta&t=uj_KUXFYIvPNmtXQRx_t4_fOC-Pvi14_VDMAkTRyE3I
 categories: [Operations]
 websiteUrl: https://getgia.ai
 ---
