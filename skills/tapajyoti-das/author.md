@@ -1,6 +1,6 @@
 ---
 name: Tapajyoti (Tukan) Das
-title: Co-Founder and CEO, Gia
+title: CEO, Gia
 headline: I help agencies and consulting firms turn how their firm thinks into something they can deploy to clients when they are not in the room.
 linkedinUrl: https://www.linkedin.com/in/tapajyotidas
 companyDomain: getgia.ai
