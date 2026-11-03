@@ -1,42 +1,55 @@
 # Voice questions
 
-Six to eight questions close the output. They are pointed at the top 3 ideas and answered by the writer before drafting. The point is to get a position on the page, not a summary of the call.
+Six to eight questions close the output, pointed at the top 3 ideas. They are answered out loud before anything is drafted, and the answers become the draft.
 
-Pick from the bank below. Two or three per top idea, plus one closing question for the set.
+## Answer them out loud
 
-## Position
+Record the answers rather than typing them. A walk works well: no screen, no editing, just talking each question through. Then transcribe the recording and draft from it.
+
+The reason is the voice. Typed answers come out tidied and slightly formal. Spoken answers come out in the phrasing the writer actually uses, with the asides and the specifics left in, and that is what makes a post sound like a person rather than a summary.
+
+Rough is fine. A two-minute rambling answer with one good sentence in it beats a polished paragraph written to sound like a post.
+
+## Ask about what the transcript can't hold
+
+The call transcript already has what was said. The questions exist to get everything around it that never made it into the recording.
+
+Pick two or three per top idea, plus one closing question for the set.
+
+### What you were thinking
+
+- What were you thinking at that moment that you didn't say?
+- What did you almost say, and why didn't you?
+- What did you know, from other clients, that they didn't?
+
+### The scene
+
+- Where were they, and what was going on for them that day?
+- What happened just before this moment that made it land?
+- What did their face or voice do when they said it?
+
+### The number you didn't mention
+
+- What is the number behind this that never came up on the call?
+- How many times have you seen this, and over how long?
+- What does it cost when it goes wrong, in money or weeks?
+
+### What happened after
+
+- What did they do afterward, if you know?
+- How does this usually play out when nobody catches it?
+
+### Your position
 
 - What do you believe about this that most people in your market do not?
-- What would you have said if you had been less polite on the call?
-- Who is wrong here, and what are they actually doing instead?
-
-## Evidence
-
-- What have you seen happen more than three times that makes you sure?
-- What is the number you would put behind this, and where did it come from?
-- What is the smallest concrete example that proves it?
-
-## Cost
-
-- What does this cost the reader if they keep doing it the current way, in money or time?
-- What is the deadline or event that makes it urgent for them this quarter?
-
-## Counter-case
-
-- When is the opposite true? Who should ignore this advice?
-- What would a smart person say back, and what is your answer?
-
-## Specificity
-
-- What detail from the call would you be nervous to include, and why?
-- What word did the buyer use that you would never have used?
+- When is the opposite true? Who should ignore this?
 
 ## Closing question for the set
 
-- If you could only publish one of these three next week, which one and what changes?
+- If you could only publish one of these three next week, which one and why?
 
-## How to use the answers
+## Drafting from the answers
 
-Answers go straight into the draft, lightly edited. The hook comes from the buyer's phrase or the number. The body comes from the evidence and cost answers. The counter-case answer becomes the second half of the post and is usually what earns the comments.
+Draft from the transcript of the spoken answers, keeping the wording close. The hook usually comes from the buyer's phrase or the number nobody mentioned. The body comes from what you were thinking and the scene. The counter-case is usually the second half of the post and what earns the comments.
 
-If a question cannot be answered in two sentences, the idea is not ready. Move it down and promote the next one.
+If an answer can't be given in a couple of minutes of talking, the idea isn't ready yet. Park it and promote the next one.

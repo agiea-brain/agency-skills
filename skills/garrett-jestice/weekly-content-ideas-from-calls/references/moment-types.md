@@ -1,6 +1,6 @@
 # What counts as a moment
 
-Seven types earn their place on the list. Everything else is a topic, and topics make generic posts.
+Nine types earn their place on the list. Everything else is a topic, and topics make generic posts.
 
 ## 1. The buyer's own phrase
 
@@ -37,6 +37,16 @@ Why it works: the post writes itself as "here is why I still think X", which is 
 The thing said in the first two minutes or after "anyway" that had nothing to do with the agenda.
 Why it works: it is the unguarded version of their priorities.
 
+## 8. What the client figured out
+
+A conclusion the client reached on the call, usually mid-sentence, that they did not have when the call started. "Oh, so the problem is the handoff, not the leads."
+Why it works: it is the realisation the reader is one step away from, in the words of someone who just had it.
+
+## 9. The process you walked them through
+
+The steps you explained when they asked how you would handle something. Not your clever line, the actual sequence: what you do first, what you check, what you skip.
+Why it works: it is the most useful thing on the call and nobody else heard it. Written up, it is a how-to with proof it works in a real conversation.
+
 ## Not moments
 
 - A restatement of their job title or company description
@@ -51,7 +61,7 @@ Why it works: it is the unguarded version of their priorities.
 Quote: "..."
 Said by: [role, company size, segment]
 Prompted by: [what was being discussed]
-Type: [1-7]
+Type: [1-9]
 ```
 
 A normal week of 6 to 10 calls yields 15 to 30 candidates. Under 10 candidates usually means the week was status calls, not discovery. Widen the window to 14 days once, then stop.
