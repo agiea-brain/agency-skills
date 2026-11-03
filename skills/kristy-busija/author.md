@@ -5,6 +5,7 @@ headline: Creating cultures where top talent loves to work, and proving it. Spea
 linkedinUrl: https://www.linkedin.com/in/kristybusija
 companyDomain: nextconversationconsulting.com
 expertise: [leadership-development, talent-management, organizational-development, executive-coaching, training-design, workplace-culture]
+avatarUrl: https://media.licdn.com/dms/image/v2/D4E03AQFUQtFV2ISvUQ/profile-displayphoto-scale_200_200/B4EZstb2RBHEAY-/0/1765993836172?e=2147483647&v=beta&t=FZ4KnTzZiFoNeuVipPmSG45vd-kYG_yKwVrA5T34fq4
 categories: [Leadership, Operations, Marketing]
 websiteUrl: https://nextconversationconsulting.com
 ---
