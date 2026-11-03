@@ -5,6 +5,7 @@ headline: I help founders find their growth signal with small, fast experiments 
 linkedinUrl: https://www.linkedin.com/in/thejaredperry
 companyDomain: flowcos.com
 expertise: [go-to-market, growth-experiments, ai-workflows, founder-coaching, client-communication]
+avatarUrl: https://media.licdn.com/dms/image/v2/D4E03AQGcxS4j4rpdIw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712595553836?e=2147483647&v=beta&t=7_KRuHmyuuAsMec-Nl7YhRuy3VLTl2FVCIIctOKrIAE
 categories: [Operations, Strategy, Marketing]
 websiteUrl: https://flowcos.com
 ---
