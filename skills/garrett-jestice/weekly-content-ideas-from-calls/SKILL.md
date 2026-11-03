@@ -27,7 +27,7 @@ Applies on a fixed day at the end of the week, before next week's content is pla
    - A moment repeated by two or more different buyers goes straight to the top 3, whatever it scores.
    - A single client's very specific situation scores well but is not a top 3 pick unless the pattern shows up elsewhere.
    - A moment that contradicts something already published is always a top 3 pick. Those are the posts that get comments.
-8. Close with 6 to 8 voice questions, drawn from references/voice-questions.md and pointed at the top 3. These are what the writer answers before drafting, so the post carries a real position instead of a summary of the call.
+8. Close with 6 to 8 voice questions, drawn from references/voice-questions.md and pointed at the top 3. They ask for what the transcript can't hold: what the writer was thinking but didn't say, the scene, the number nobody mentioned. The writer answers them out loud, often on a walk, and the draft is written from that recording, so the post comes out in their own words instead of as a summary of the call.
 
 ## What good looks like
 
@@ -45,4 +45,3 @@ Applies on a fixed day at the end of the week, before next week's content is pla
 - MUST give each idea two formats.
 - MUST run on the same day every week. The cadence is what makes the backlog compound.
 - NEVER publish a quote that identifies the speaker without their explicit yes.
-- NEVER carry an unused idea forward more than two weeks. If it has not been written by then, it was not an idea.

@@ -8,14 +8,14 @@ The metric is **comments per 1,000 impressions** (CP1K) on published posts. Like
 2. CP1K = comments / (impressions / 1,000).
 3. Sort and take the median. That is the baseline. Recompute quarterly, not weekly.
 
-Typical ranges for a founder or practitioner account. Use your own numbers once you have 90 days.
+Read every post against your own median, not against anyone else's numbers. CP1K varies enormously by account: a practitioner with an engaged audience can sit at 8 or more on a typical post, where a newer account might sit near 1. The bands below are an example of how to read relative to your median, not fixed thresholds.
 
-| CP1K | Read |
+| CP1K, relative to your median | Read |
 |---|---|
-| Under 1.0 | Nobody had anything to say. Topic was agreeable. |
-| 1.0 to 2.5 | Working. The normal band. |
-| 2.5 to 5.0 | Struck a nerve. Look for what the post did that the others did not. |
-| Over 5.0 | Either a genuine position or a fight. Check which before repeating it. |
+| Under half your median | Nobody had anything to say. Topic was agreeable. |
+| Around your median | Working. The normal band. |
+| One and a half to two times your median | Struck a nerve. Look for what the post did that the others did not. |
+| Over twice your median | Either a genuine position or a fight. Check which before repeating it. |
 
 ## Score each candidate idea
 
