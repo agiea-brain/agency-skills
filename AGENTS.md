@@ -58,7 +58,7 @@ Decide before you start, because it changes Stage 3 and Stage 4.
 | HTTP access to the GitHub API with the user's token | the manual checklist | a pull request or issue through the API (path C) |
 | Nothing but this conversation | the manual checklist | a prefilled issue link, or a bundle the user pastes (path D) |
 
-In your first reply, say which path you're on, so the user knows what they'll be asked to do at the end. Then start the interview.
+In your first reply, say which path you're on, so the user knows what they'll be asked to do at the end, and, on a first contribution, that you'll also need their profile details (name, role, company, LinkedIn, photo). Then start the interview.
 
 ### Boundaries
 
@@ -94,7 +94,17 @@ Your job is to get the expert's judgment out of their head, not to transcribe a 
 
 **Close** with "What else do you check or do here that we haven't covered?" and repeat until the answer is nothing.
 
-**First contribution?** Also collect, for `author.md`: name, role and company, personal LinkedIn URL, company domain, a one-line headline of what they help with, 3 to 6 expertise keywords (1 is the minimum), and (optionally) email, photo URL, website. Tell them the email is public in the repo but never published in the index.
+**First contribution? Run a profile round.** Submissions keep arriving with `author.md` half empty (no photo, a guessed company, template text left in), and maintainers then chase the expert for it. So ask for every field below directly, as its own short group of questions, before Stage 2. Never fill one from guesswork, from the template's example values, or from what you can infer about the person.
+
+1. Full name, as it should appear publicly.
+2. Role and company (becomes `title`, "Role, Company") and the company's bare domain (`companyDomain`).
+3. Personal LinkedIn URL (`linkedin.com/in/...`, not a company page). This is the identity check; nothing merges without it.
+4. Headline: one line, their words, under 140 characters, of what they help with. People search by it.
+5. 3 to 6 expertise keywords (1 is the minimum).
+6. A photo URL (`avatarUrl`): a real headshot, roughly square, 400px or more, on a stable host (their site, `https://github.com/<user>.png`, Gravatar). LinkedIn image links expire, so don't accept one. If they have nothing, tell them maintainers may re-host their LinkedIn photo and note in your deliverable that they agreed.
+7. Optional: email (public in the repo, never in the published index; how maintainers reach them) and website.
+
+Required fields (1 to 5) cannot be skipped; keep asking. If an optional one is still missing after you asked, leave it out rather than invent it, and name what's missing in your final message. Returning contributors: ask whether anything in their existing `author.md` changed (new role, new company, new photo) and update it only if so.
 
 Ask questions in small groups, not all at once. Reflect back what you heard before moving on; experts correct a paraphrase far more readily than they volunteer detail.
 
@@ -160,9 +170,11 @@ Write tight. The body (everything after the frontmatter) usually lands at 500 to
 | `companyDomain` | yes | bare domain |
 | `expertise` | yes | 1+ lower-kebab keywords; search facets |
 | `email` | no | public in the repo, never in the published index; how maintainers reach them |
-| `avatarUrl` | no | a real photo; without it maintainers may re-host the LinkedIn photo |
+| `avatarUrl` | no | link to a real headshot. Always ask for it; most submissions arrive without one. Without it maintainers may re-host the LinkedIn photo |
 | `categories` | no | taxonomy categories they serve; derived from their skills if omitted |
 | `websiteUrl` | no | |
+
+Wrap `headline`, `title` and `name` in double quotes. A colon followed by a space (`help firms: one offer`) inside an unquoted value is invalid YAML; the local validator lets it through, but GitHub and standard YAML parsers reject the file. Same rule for any `SKILL.md` frontmatter value.
 
 Body: 2 to 4 sentences, person-first, verifiable. No `slug` field; the directory name is the slug.
 
@@ -187,6 +199,8 @@ Errors must be fixed; each message says how. Warnings are advice: read them and 
 - [ ] Body contains a line that is exactly `## What good looks like`
 - [ ] Extra files are only under `references/`, flat, with an extension from: `.md .txt .json .csv .yaml .yml .py .sql .pdf .png .webp .html`
 - [ ] `author.md` has `name`, `title`, `headline` (≤ 140 chars), `linkedinUrl` containing `linkedin.com/in/`, `companyDomain` as a bare domain, `expertise` with 1+ lower-kebab items; `categories`, if present, only uses taxonomy values
+- [ ] Frontmatter values containing `: ` are wrapped in double quotes (`headline`, `title`, `name` always quoted)
+- [ ] Every `author.md` value came from the user's own answers: no template example text, no guessed `title` or `companyDomain`; `avatarUrl` is present, or the user explicitly declined a photo
 - [ ] No bracketed prose hints from the template left anywhere (YAML lists are fine)
 - [ ] Nothing sends data to a third party, embeds a secret, overrides agent instructions, or runs a bulk/destructive step without a confirmation
 
