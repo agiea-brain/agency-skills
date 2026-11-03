@@ -5,6 +5,7 @@ headline: Founder of OneGTM. Builds outbound, signal and AI systems for startups
 linkedinUrl: https://www.linkedin.com/in/garrettawolfe
 companyDomain: getaob.com
 expertise: [outbound, cold-email, gtm-engineering, signal-based-selling, lead-scoring, clay]
+avatarUrl: https://media.licdn.com/dms/image/v2/D5603AQF7z2HT7X06hg/profile-displayphoto-shrink_200_200/B56ZPRlvViHoAc-/0/1734388152063?e=2147483647&v=beta&t=XvuuOkmF29xB7oaLPYnueN9gi-RtSgLiGAIm5D6JL2U
 categories: [Sales, RevOps]
 websiteUrl: https://getaob.com
 ---
