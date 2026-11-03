@@ -1,7 +1,7 @@
 ---
 name: Purvesh Rathod
 title: Founding Software Engineer, Gia
-headline: I build the engineering behind a firm's company brain: capturing how a firm works and deploying it into a client's environment.
+headline: "I build the engineering behind a firm's company brain: capturing how a firm works and deploying it into a client's environment."
 linkedinUrl: https://www.linkedin.com/in/purveshrathod
 companyDomain: getgia.ai
 email: purvesh@myagiea.com

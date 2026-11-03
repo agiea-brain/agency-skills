@@ -1,7 +1,7 @@
 ---
 name: Garrett Jestice
 title: Founder and GTM Advisor, 10x Solo
-headline: I help booked-out consultants and fractionals grow revenue without adding hours: one client type, one offer, sold on repeat.
+headline: "I help booked-out consultants and fractionals grow revenue without adding hours: one client type, one offer, sold on repeat."
 linkedinUrl: https://www.linkedin.com/in/garrettjestice
 companyDomain: 10xsolo.com
 expertise: [offer-market-fit, positioning, go-to-market-strategy, marketing-strategy, content-marketing, consultants-and-fractionals]
