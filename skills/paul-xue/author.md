@@ -5,6 +5,7 @@ headline: Reddit marketing agency for Redditors' favorite brands. Ex-CTO.
 linkedinUrl: https://www.linkedin.com/in/pxue
 companyDomain: spacestationlabs.ai
 expertise: [reddit-marketing, positioning, social-listening, paid-social, community-growth, gtm]
+avatarUrl: https://pbs.twimg.com/profile_images/1979600703556407297/VKgkX4qC_200x200.jpg
 categories: [Marketing]
 websiteUrl: https://spacestationlabs.ai
 ---
